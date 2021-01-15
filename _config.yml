@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anthony Gruber"
+  name             : "Dr. Anthony Gruber"
   avatar           : "prof_pic.png"
-  bio_html              : "TTU Assistant Professor of Practice and FSU Postdoctoral Research Associate under <a href='https://people.sc.fsu.edu/~mgunzburger/'>Max Gunzburger</a>"
+  bio              : "TTU Assistant Professor of Practice and FSU Postdoctoral Research Associate under [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/)"
   location         : "Columbia, SC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
