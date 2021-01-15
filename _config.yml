@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Anthony Gruber"
 title_separator          : "-"
 name                     : &name "Dr. Anthony Gruber"
-description              : &description "FSU Postdoctoral Research Associate/TTU Assistant Professor of Practice"
+description              : &description "FSU Postdoctoral Research Associate / TTU Assistant Professor of Practice"
 url                      : https://agrubertx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agrubertx/agrubertx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Anthony Gruber"
   avatar           : "prof_pic.png"
-  bio              : "TTU Assistant Professor of Practice / FSU Postdoctoral Research Associate under" [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/)
+  bio              : "FSU Postdoctoral Research Associate TTU Assistant Professor of Practice"
   location         : "Columbia, SC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
