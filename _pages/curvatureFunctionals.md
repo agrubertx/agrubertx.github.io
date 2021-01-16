@@ -29,6 +29,8 @@ A particularly noteworthy special case of $ \mathcal{F}_\mathcal{E} $ occurs whe
 
 Relevant Publications
 ======
+(EP)  <b>Anthony Gruber</b>, Álvaro Pámpano, Magdalena Toda.  <i>Regarding the Euler-Plateau Problem with Elastic Modulus</i> (under review).  Preprint version [available here.](https://arxiv.org/abs/2010.00149)
+
 (SS) <b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.  <i>Stationary surfaces with boundaries</i> (under review).  Preprint version [available here.](https://arxiv.org/abs/1912.07103)
 
 (CF) <b>Anthony Gruber,</b>, Magdalena Toda, Hung Tran.  <i>On the variation of curvature functionals in a space form with application to a generalized Willmore energy</i>, Ann. Glob. Anal. Geom. (2019) 56: 147.  DOI:[https://doi.org/10.1007/s10455-019-09661-0](https://doi.org/10.1007/s10455-019-09661-0).  Preprint version [available here.](https://arxiv.org/abs/1905.01759)
