@@ -27,17 +27,8 @@ My research interests include surface immersions, curvature functionals, variati
     <figcaption>test for one image.</figcaption>
 </figure>
 
-<article class="clear">
-              <figure><img src="images/Modelfrontpage.png" alt="">
-                <figcaption>
-                  <h2>Modeling the p-Willmore flow of surfaces</h2>
-                  <p>Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
-                  This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.
-                  (Joint with <a href="http://www.math.ttu.edu/~eaulisa/"> Eugenio Aulisa</a>.)</p>
-                  <footer class="more"><a href="surfflow.html">Read More &raquo;</a></footer>
-                </figcaption>
-              </figure>
-            </article>
+<IMG SRC=”images/Modelfrontpage.png” ALIGN=”right” />Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
+This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.
 
 A data-driven personal website
 ======
