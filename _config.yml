@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default),
+    colorscheme          : # "dark", "light" (default)
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Anthony Gruber"
-  avatar           : "prof_pic.png"
+  avatar           : "prof_pic2.png"
   bio              : "FSU Postdoctoral Research Associate / TTU Assistant Professor of Practice"
   location         : "Columbia, SC"
   employer         :
