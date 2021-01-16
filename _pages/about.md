@@ -23,12 +23,14 @@ My research interests include surface immersions, curvature functionals, variati
 </figure>
 
 Modeling the p-Willmore Flow of Surfaces
-
+======
 <figure>
     <a href="/images/Modelfrontpage.png"><img src="/images/Modelfrontpage.png"></a> Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
     This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.
 </figure>
 
+![image-left](/images/Modelfrontpage.png){: .align-left} Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
+This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.
 
 A data-driven personal website
 ======
