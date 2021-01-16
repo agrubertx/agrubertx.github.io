@@ -27,6 +27,18 @@ My research interests include surface immersions, curvature functionals, variati
     <figcaption>test for one image.</figcaption>
 </figure>
 
+<article class="clear">
+              <figure><img src="images/Modelfrontpage.png" alt="">
+                <figcaption>
+                  <h2>Modeling the p-Willmore flow of surfaces</h2>
+                  <p>Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
+                  This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.
+                  (Joint with <a href="http://www.math.ttu.edu/~eaulisa/"> Eugenio Aulisa</a>.)</p>
+                  <footer class="more"><a href="surfflow.html">Read More &raquo;</a></footer>
+                </figcaption>
+              </figure>
+            </article>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
