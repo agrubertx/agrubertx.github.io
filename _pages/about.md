@@ -23,7 +23,7 @@ My research interests include surface immersions, curvature functionals, variati
 </figure>
 
 <figure>
-    <a href="/images/prof_pic2.png"><img src="/images/prof_pic2.png"></a>
+    <a href="/images/Modelfrontpage.png"><img src="/images/Modelfrontpage.png"></a> no caption just text ...
     <figcaption>test for one image.</figcaption>
 </figure>
 
