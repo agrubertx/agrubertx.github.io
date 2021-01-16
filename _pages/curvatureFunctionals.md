@@ -29,6 +29,13 @@ On the other hand, functionals which are sensitive to surface rescaling are quit
 
 A particularly noteworthy special case of $ \mathcal{F}_\mathcal{E} $ occurs when $ \mathcal{E}(H) = H^p $ for some $ p\geq 0 $.  This functional, known as the p-Willmore energy, is a signed extension of the "$ L^p $ curvature functional" idea recently investigated by Andrea Mondino and others.  Though the p-Willmore energy seen presently cannot be considered as a norm on its domain, it has significant utility in connecting some important geometric functionals: namely the area, total mean curvature, and Willmore functionals which appear as $ p = 0,1,2 $, respectively.  Applied to this case, the results for general curvature functionals above yield some interesting consequences.  For one, it follows that round spheres are not minimizing for the p-Willmore energy when $ p>2 $ (c.f. CF), though they are known to be globally minimizing in the case $ p=2 $.  Even more surprisingly, it is seen that if $ p>2 $ and $ M $ is a p-Willmore critical surface satisfying $ H=0 $ on its boundary, then $ M $ must in fact be minimal.  This shows that there can be no closed p-Willmore surfaces when $ p>2 $, and yields a connection to minimal surfaces that is worth exploring in future work.
 
+<figure class="third">
+	<img src="/images/nutorus0.svg">
+	<img src="/images/nutorus0.svg">
+	<img src="/images/nutorus0.svg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
 Relevant Publications
 ======
 (EP)  <b>Anthony Gruber</b>, Álvaro Pámpano, Magdalena Toda.  <i>Regarding the Euler-Plateau Problem with Elastic Modulus</i> (under review).  Preprint version [available here.](https://arxiv.org/abs/2010.00149)
