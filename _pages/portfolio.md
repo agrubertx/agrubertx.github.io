@@ -8,8 +8,8 @@ gallery:
   - url: ../images/try2.png
     image_path: ../images/try2.png
     alt: "placeholder image 1"
-    width: "100"
-    height: "100"
+    width: "100px"
+    height: "100px"
     title: "Image 1 title caption"
   - url: ../images/testtt.png
     image_path: ../images/testtt.png
@@ -17,6 +17,8 @@ gallery:
     title: "Image 2 title caption"
   - url: ../images/nutorus0.svg
     image_path: ../images/nutorus0.svg
+    width: "100px"
+    height: "100px"
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
