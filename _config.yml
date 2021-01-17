@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Anthony Gruber"
+title                    : "Anthony Gruber"
 title_separator          : "-"
 name                     : &name "Anthony Gruber"
 description              : &description "FSU Postdoctoral Research Associate / TTU Assistant Professor of Practice"
