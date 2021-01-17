@@ -20,10 +20,12 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-
+Some pictures
+======
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-
+Some assorted videos
+======
 [Almost-isometric Willmore flow of a trefoil knot](../videos/knotT.mp4)
 
 [Almost-isometric Willmore flow of a (3,4)-torus knot](../videos/superknotT.mp4)
