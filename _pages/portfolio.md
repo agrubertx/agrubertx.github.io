@@ -5,21 +5,21 @@ permalink: /portfolio/
 author_profile: true
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: ../images/try2.png
+    image_path: ../images/try2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - url: ../images/testtt.png
+    image_path: ../images/testtt.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - url: ../images/nutorus0.svg
+    image_path: ../images/nutorus0.svg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
 
-[//]: # ( {% include gallery caption="This is a sample gallery with **Markdown support**." %} )
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 [Almost-isometric Willmore flow of a trefoil knot](../videos/knotT.mp4)
@@ -37,8 +37,8 @@ gallery:
 [Area-constrained Willmore flow of a cow](../videos/areaprescow.mp4)
 
 
-[//]: # ( {% include base_path %} )
+{% include base_path %}
 
-[//]: # ( {% for post in site.portfolio %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %} )
+{% endfor %}
