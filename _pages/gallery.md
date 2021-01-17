@@ -3,8 +3,8 @@ permalink: /gallery/
 title: "Gallery"
 author_profile: true
 redirect_from:
-  - /md/
-  - /markdown.html
+  - /gallery/
+  - /gallery.html
 
 gallery:
   - url: /images/prof_pic.png
