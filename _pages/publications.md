@@ -5,7 +5,55 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<h1>Publications</h1>
+          <p> Recorded here is a list of publications, current through 12/2020. </p> <br>
+          <ul>
+            <li><h2>Journal Articles</h2> <br>
+              <ol>
+                <li><b>Anthony Gruber</b>, Alvaro Pampano, Magdalena Toda.
+                  <i>Regarding the Euler-Plateau Problem with Elastic Modulus</i> (under review).
+                  Preprint version available <a href= "https://arxiv.org/abs/2010.00149#">here.</a> </li> <br>
+                <li><b>Anthony Gruber</b>.
+                  <i>Parallel Codazzi tensors with submanifold applications</i> (under review).
+                  Preprint version available <a href= "https://arxiv.org/abs/2004.03103#">here.</a> </li> <br>
+                <li><b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.
+                  <i>Stationary surfaces with boundaries</i> (under review).
+                  Preprint version available <a href= "https://arxiv.org/abs/1912.07103#">here.</a> </li> <br>
+                <li><b>Anthony Gruber</b>, Eugenio Aulisa.
+                  <i>Computational p-Willmore Flow with Conformal Penalty.</i> ACM Trans. Graph. 39, 5, Article 161 (September 2020), 16 pages. DOI:<a href = https://doi.org/10.1145/3369387>https://doi.org/10.1145/3369387</a>.
+                  Available <a href=  "https://dl.acm.org/doi/10.1145/3369387?cid=99659571076#">here.</a> </li>
+                  <br>
+                <li><b>Anthony Gruber,</b>, Magdalena Toda, Hung Tran.
+                  <i>On the variation of curvature functionals in a space form
+                  with application to a generalized Willmore energy</i>,
+                  Ann. Glob. Anal. Geom. (2019) 56: 147.
+                  <a href= https://doi.org/10.1007/s10455-019-09661-0>https://doi.org/10.1007/s10455-019-09661-0</a>.
+                  Preprint version available <a href = "https://arxiv.org/abs/1905.01759#">here</a>.</li> <br>
+              </ol> <br>
+
+            <li><h2>Conference Papers </h2></li> <br>
+              <ol>
+                <li><b>Anthony Gruber</b>, Eugenio Aulisa.
+                  <i>Quaternionic Remeshing During Surface Evolution</i> (to appear), Proceedings of the 18th International Conference of Numerical Analysis and Applied Mathematics, Rhodes, Greece 2020.  Preprint version available <a href = "preprints/QRDSE.pdf" >here</a>. </li> <br>
+                <li><b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.
+                  <i>Willmore-Stable Minimal Surfaces</i> (to appear), Proceedings of the 18th International Conference of Numerical Analysis and Applied Mathematics, Rhodes, Greece 2020. Preprint version available <a href = "preprints/WSMS.pdf" >here</a> </li> <br>
+                <li> Eugenio Aulisa, <b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.
+                  <i>New Developments on the p-Willmore Energy of Surfaces</i>,
+                  Proceedings of the XXIst Conference on Geometry, Integrability and Quantization, BAS - Varna 2019. <a href= https://doi.org/10.7546/giq-21-2020-57-65>https://doi.org/10.7546/giq-21-2020-57-65</a>. Preprint version available <a href = "preprints/PWillmoreGIQ.pdf" >here</a>. </li> <br>
+                <li> Robert A. Bridges, <b>Anthony D. Gruber</b>, Christopher Felder, Miki Verma, Chelsey Hoff.
+                  <i>Active Manifolds: A non-linear analogue to Active Subspaces</i>,
+                  Volume 97: International Conference on Machine Learning (2019).
+                  Preprint version available <a href = "https://arxiv.org/abs/1904.13386#">here</a>. </li> <br>
+              </ol> <br>
+
+            <li><h2>Others</h2></li> <br>
+              <ol>
+                <li> <b>Anthony Gruber</b>.
+                  <i>Curvature functionals and p-Willmore energy</i>.  PhD Thesis (2019).
+                  TTU Electronic Thesis and Dissertation Repository, available <a href = "https://ttu-ir.tdl.org/handle/2346/85351#">here</a>. </li> <br>
+              </ol>
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +61,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
