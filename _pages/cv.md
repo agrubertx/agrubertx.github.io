@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 A Virtual CV, current through 12/2020.  PDF version [available here.](../files/Gruber_CV.pdf)
-
+<!-- 
 {% include base_path %}
 
 Education
@@ -58,4 +57,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
