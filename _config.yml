@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Anthony Gruber"
 title_separator          : "-"
-name                     : &name "Dr. Anthony Gruber"
+name                     : &name "Anthony Gruber"
 description              : &description "FSU Postdoctoral Research Associate / TTU Assistant Professor of Practice"
 url                      : https://agrubertx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
