@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a differential geometer working on surface theory and its applications to biology, physics, and data science. I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Hung Tran](https://www.math.uci.edu/~hungtt1/) and [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).
+I am a differential geometer working on surface theory and its applications to biology, physics, and data science.  I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Hung Tran](https://www.math.uci.edu/~hungtt1/) and [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/). In brief, I apply techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I am very interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
 
-My research interests include surface immersions, curvature functionals, variational calculus, computational and discrete geometry, integrability problems, conformal geometry, and geometric flows.
+In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
+
+Broad research keywords which tend to interest me include: surface immersions, curvature functionals, Willmore energy, Cartan theory, computational and discrete geometry, conformal geometry, geometric flows, conservation laws, and integrability problems.
+
+Below are some snapshots of my recent work. Each has its own page for further reading.
 
 ![image-center](/images/frontpage.jpg){: .align-center}
-
-[//]: # ( Below are some snapshots of my recent work. See my research page for further details. )
 
 
 Modeling the p-Willmore Flow of Surfaces
