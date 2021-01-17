@@ -19,7 +19,7 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+[//]: # ( {% include gallery caption="This is a sample gallery with **Markdown support**." %} )
 
 [Almost-isometric Willmore flow of a trefoil knot](../videos/knotT.mp4)
 
@@ -36,9 +36,9 @@ gallery:
 [Area-constrained Willmore flow of a cow](../videos/areaprescow.mp4)
 
 
-{% include base_path %}
+[//]: # ( {% include base_path %}
 
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} )
