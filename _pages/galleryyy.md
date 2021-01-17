@@ -1,10 +1,10 @@
 ---
-permalink: /gallery/
-title: "Gallery"
+permalink: /galleryyy/
+title: "Galleryyy"
 author_profile: true
 redirect_from:
-  - /gallery/
-  - /gallery.html
+  - /galleryyy/
+  - /galleryyy.html
 
 galt:
   - url: /images/prof_pic.png
