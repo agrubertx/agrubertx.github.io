@@ -8,6 +8,8 @@ gallery:
   - url: ../images/try2.png
     image_path: ../images/try2.png
     alt: "placeholder image 1"
+    width: "100"
+    height: "100"
     title: "Image 1 title caption"
   - url: ../images/testtt.png
     image_path: ../images/testtt.png
