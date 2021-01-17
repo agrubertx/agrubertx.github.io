@@ -6,7 +6,7 @@ redirect_from:
   - /gallery/
   - /gallery.html
 
-gallery:
+galt:
   - url: /images/prof_pic.png
     image_path: /images/prof_pic.png
     alt: "placeholder image 1"
@@ -23,6 +23,6 @@ gallery:
 
 let's gooooo
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include galt caption="This is a sample gallery with **Markdown support**." %}
 
 barbarbarbarbarbarbar
