@@ -21,6 +21,7 @@ gallery:
 
 [//]: # ( {% include gallery caption="This is a sample gallery with **Markdown support**." %} )
 
+
 [Almost-isometric Willmore flow of a trefoil knot](../videos/knotT.mp4)
 
 [Almost-isometric Willmore flow of a (3,4)-torus knot](../videos/superknotT.mp4)
@@ -36,9 +37,8 @@ gallery:
 [Area-constrained Willmore flow of a cow](../videos/areaprescow.mp4)
 
 
-[//]: # ( {% include base_path %}
+[//]: # ( {% include base_path %} )
 
-
-{% for post in site.portfolio %}
+[//]: # ( {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %} )
