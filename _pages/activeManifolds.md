@@ -8,8 +8,6 @@ redirect_from:
   - "/am.html"
 ---
 
-<!-- <script src="scripts/load-mathjax.js" async></script> -->
-
 ![image-center](/images/amfront.png){: .align-center}
 When fitting the parameters of a scientific model, it may be the case that real data is expensive or difficult to acquire.  A natural question then arises -- how can one get the most accurate understanding of a physical situation when given sparse or limited data?  Active Manifolds (AM) is a nonlinear technique for reducing the dimension of regression problems when the function in question involves a high number of input dimensions relative to the data acquired. In this fashion, Active Manifolds extends the Active Subspace methods of Paul Constantine, which use techniques from principal component analysis (PCA) applied to the gradient of a model function in order to compute a lower-dimensional affine subspace where the unknown function changes most on average.  Similarly, AM seeks to find and exploit a 1-D submanifold on which the function exhibits the most change.
 

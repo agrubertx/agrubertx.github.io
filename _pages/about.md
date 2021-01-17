@@ -16,16 +16,12 @@ My research interests include surface immersions, curvature functionals, variati
 
 [//]: # ( Below are some snapshots of my recent work. See my research page for further details. )
 
-[//]: # ( This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). )
-
-<!-- <br> -->
 
 Modeling the p-Willmore Flow of Surfaces
 ------
 ![image-left](/images/Modelfrontpage.png){: .align-left} Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
 This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.  (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) [Read More.](/surfaceFlow/){: .btn .btn--inverse}
 
-<!-- <br> -->
 
 Active Manifolds: Geometric Data Analysis for Dimension Reduction
 ------
