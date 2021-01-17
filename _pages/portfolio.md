@@ -21,19 +21,19 @@ gallery:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-[Almost-isometric Willmore flow of a trefoil knot](videos/knotT.mp4)
+[Almost-isometric Willmore flow of a trefoil knot](../videos/knotT.mp4)
 
-[Almost-isometric Willmore flow of a (3,4)-torus knot](videos/superknotT.mp4)
+[Almost-isometric Willmore flow of a (3,4)-torus knot](../videos/superknotT.mp4)
 
-<a href="videos/MCF_statue.mp4" >MCF of a Moai statue</a></li>
+[MCF of a Moai statue](../videos/MCF_statue.mp4)
 
-<a href="videos/dogtoballV.mp4" >Volume-preserving Willmore flow of a rabbit-dog</a></li>
+[Volume-preserving Willmore flow of a rabbit-dog](../videos/dogtoballV.mp4)
 
-<a href="videos/dogtodisk.mp4" >Volume/Area constrained Willmore flow of a rabbit-dog</a></li>
+[Volume/Area constrained Willmore flow of a rabbit-dog](../videos/dogtodisk.mp4)
 
-<a href="videos/slowgrow.mp4" >4-Willmore flow of a cube</a></li>
+[4-Willmore flow of a cube](../videos/slowgrow.mp4)
 
-<a href="videos/areaprescow.mp4" >Area-constrained Willmore flow of a cow</a></li>
+[Area-constrained Willmore flow of a cow](../videos/areaprescow.mp4)
 
 
 {% include base_path %}
