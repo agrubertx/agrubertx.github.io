@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a differential geometer working on surface theory and its applications to biology, physics, and data science. I received my PhD from Texas Tech University under the guidance of [Prof. Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Prof. Hung Tran](https://www.math.uci.edu/~hungtt1/) and [Prof. Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).
+I am a differential geometer working on surface theory and its applications to biology, physics, and data science. I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Hung Tran](https://www.math.uci.edu/~hungtt1/) and [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).
 
 My research interests include surface immersions, curvature functionals, variational calculus, computational and discrete geometry, integrability problems, conformal geometry, and geometric flows.
 
