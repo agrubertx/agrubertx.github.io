@@ -9,11 +9,13 @@ redirect_from:
 ---
 ![image-center](/images/frontpage.jpg){: .align-center}
 
-I am a differential geometer working on surface theory and its applications to biology, physics, and data science.  I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Hung Tran](https://www.math.uci.edu/~hungtt1/) and [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/). In brief, I apply techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I am very interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
+I am a mathematician working on surface theory and its applications to computer graphics, data science, and physics.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
 
-In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
+During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I am very interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
 
-Broad research keywords which tend to interest me include: surface immersions, curvature functionals, Willmore energy, Cartan theory, computational and discrete geometry, conformal geometry, geometric flows, conservation laws, and integrability problems.
+Lately, I'm involved in developing numerical methods for dimension reduction, function approximation, and reduced order modeling.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
+
+Broad research keywords which tend to interest me include: computational and discrete geometry, surface immersions, curvature functionals, Willmore energy, geometric flows, conservation laws, and integrability problems.
 
 Below are some snapshots of my recent work. Each has its own page for further reading.
 
