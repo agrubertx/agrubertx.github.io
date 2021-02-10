@@ -10,7 +10,7 @@ main:
     url: /teaching/
 
   - title: "Code"
-     url: /code/
+    url: /code/
 
   - title: "CV"
     url: /cv/
