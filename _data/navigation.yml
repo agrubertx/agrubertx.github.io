@@ -16,7 +16,7 @@ main:
     url: /cv/
 
   - title: "Media"
-    url: /media/
+    url: /galley/
 
-   - title: "Guide"
-     url: /gallery/
+   # - title: "Guide"
+   #   url: /gallery/
