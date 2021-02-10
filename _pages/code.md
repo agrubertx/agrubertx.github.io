@@ -2,7 +2,7 @@
 permalink: /code/
 title: "Selected Programs and Jupyter notebooks"
 author_profile: true
-layout: archive
+excerpt: "Code"
 ---
 
 [burgers.py](/files/code/burgers.py).  A Python program which computes solutions to the 1-D inviscid Burgers' equation, along with their sensitivities.
