@@ -22,9 +22,14 @@ Below are some selected snapshots of my work. Each has its own page for further 
 [//]: # (![image-center](/images/frontpage.jpg){: .align-center} )
 
 
+Optimal Quasiconformal Mappings with Prescribed Boundary
+------
+![image-left](/images/Modelfrontpage.png){: .align-left} Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing $$ Teichm{\"u}ller $$ quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.  (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) [Read More.](/quasiconformal/)){: .btn .btn--inverse}
+
+
 Learning the Structure of Level Sets from Sparse Data
 ------
-![image-left](/images/ex4_mine.png){: .align-left} It is often necessary to make predictions in the presence of limited or incomplete data, which can lead to formidable model overfitting. The Nonlinear Level-set Learning (NLL) method of Zhang et al. aims to combat this issue by building an invertible neural network mapping which concentrates the change in the function in some small number of active directions.  This project improves the NLL algorithm by reposing it as the minimization of an almost-Dirichlet energy functional, leading to a mapping which is faster to compute and always reduces the number of active inputs to one.  (Joint with [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/), [Lili Ju](https://people.math.sc.edu/ju/), [Yuankai Teng](https://slooowtyk.github.io/), and [Zhu Wang](https://people.math.sc.edu/wangzhu/).) [Read More.](/nll/){: .btn .btn--inverse}
+![image-left](/images/ex4_mine.png){: .align-left} It is often necessary to make predictions in the presence of limited or incomplete data, which can lead to formidable model overfitting. The Nonlinear Level-set Learning (NLL) method of [Guannan Zhang](https://sites.google.com/view/guannan-zhang/home) et al. aims to combat this issue by building an invertible neural network mapping which concentrates the change in the function in some small number of active directions.  This project improves the NLL algorithm by reposing it as the minimization of an almost-Dirichlet energy functional, leading to a mapping which is faster to compute and always reduces the number of active inputs to one.  (Joint with [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/), [Lili Ju](https://people.math.sc.edu/ju/), [Yuankai Teng](https://slooowtyk.github.io/), and [Zhu Wang](https://people.math.sc.edu/wangzhu/).) [Read More.](/nll/){: .btn .btn--inverse}
 
 
 Modeling the p-Willmore Flow of Surfaces
