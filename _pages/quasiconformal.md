@@ -1,6 +1,6 @@
 ---
 permalink: /quasiconformal-mappings/
-title: "Computing Quasiconformal Mappings with Prescribed Boundary Conditions"
+title: "Quasiconformal Mappings for Surface Mesh Optimization"
 excerpt: "Computational Quasiconformal Mappings"
 author_profile: true
 redirect_from:
@@ -26,4 +26,4 @@ A messy implementation of our algorithm can be found on my [code page](/code/).
 
 Relevant Publications
 ======
-<b>Anthony Gruber</b>, Eugenio Aulisa. <i>Nonlinear Level Set Learning for Function Approximation on Sparse Data with Applications to Parametric Differential Equations.</i>  Preprint version [available here.](/files/preprints/QC_paper.pdf)
+<b>Anthony Gruber</b>, Eugenio Aulisa. <i>Quasiconformal Mappings for Surface Mesh Optimization.</i>  Preprint version [available here.](/files/preprints/QC_paper.pdf)

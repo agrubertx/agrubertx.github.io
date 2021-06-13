@@ -22,9 +22,9 @@ Below are some selected snapshots of my work. Each has its own page for further 
 [//]: # (![image-center](/images/frontpage.jpg){: .align-center} )
 
 
-Optimal Quasiconformal Mappings with Prescribed Boundary
+Quasiconformal Mappings for Surface Mesh Optimization
 ------
-![image-left](/images/Modelfrontpage.png){: .align-left} Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.  (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) [Read More.](/quasiconformal/){: .btn .btn--inverse}
+![image-left](/images/moais.png){: .align-left} Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.  (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) [Read More.](/quasiconformal/){: .btn .btn--inverse}
 
 
 Learning the Structure of Level Sets from Sparse Data
