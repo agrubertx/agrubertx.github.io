@@ -17,9 +17,14 @@ Lately, I'm involved in developing numerical methods for dimension reduction, fu
 
 Broad research keywords which tend to interest me include: computational and discrete geometry, surface immersions, curvature functionals, Willmore energy, geometric flows, conservation laws, and integrability problems.
 
-Below are some snapshots of my recent work. Each has its own page for further reading.
+Below are some selected snapshots of my work. Each has its own page for further reading.
 
 [//]: # (![image-center](/images/frontpage.jpg){: .align-center} )
+
+
+Learning the Structure of Level Sets from Sparse Data
+------
+![image-left](/images/ex4_mine.png){: .align-left} It is often necessary to make predictions in the presence of limited or incomplete data.  Particularly when the predicted output is a scalar-valued function of many parameters, this lack of data leads to formidable model overfitting.  The Nonlinear Level-set Learning (NLL) method of Zhang, Zhang, and Hinkle aims to combat this issue by building an invertible neural network mapping which concentrates the change in the push-forward function in some predefined number of active directions.  This project improves the NLL algorithm by reposing it as the minimization of a particular almost-Dirichlet energy functional, leading to a mapping which is faster to compute, more effective at concentrating sensitivity, and always reduces the number of active inputs to one.  (Joint with [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/), [Lili Ju](https://people.math.sc.edu/ju/), [Yuankai Teng](https://slooowtyk.github.io/), and [Zhu Wang](https://people.math.sc.edu/wangzhu/).) [Read More.](/nll/){: .btn .btn--inverse}
 
 
 Modeling the p-Willmore Flow of Surfaces
