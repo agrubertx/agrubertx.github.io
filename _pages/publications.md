@@ -11,10 +11,11 @@ Recorded here is a list of publications, current through 12/2020.
 <ol>
   <li><b>Anthony Gruber</b>.
     <i>Parallel Codazzi tensors with submanifold applications</i> (under review).
-    Preprint version <a href= "https://arxiv.org/abs/2004.03103#">available here.</a> </li> <br>
+    Preprint version [available here](https://arxiv.org/abs/2004.03103#).</li>
+
   <li><b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.
     <i>Stationary surfaces with boundaries</i> (under review).
-    Preprint version <a href= "https://arxiv.org/abs/1912.07103#">available here.</a> </li>
+    Preprint version [available here](https://arxiv.org/abs/1912.07103).</li>
 </ol>
 
 # Journal Articles
@@ -23,8 +24,7 @@ Recorded here is a list of publications, current through 12/2020.
     <i>Regarding the Euler-Plateau Problem with Elastic Modulus.</i> Ann. Mat. Pura. Appl. (to appear).
     Preprint version <a href= "https://arxiv.org/abs/2010.00149#">available here.</a> </li> <br>
   <li><b>Anthony Gruber</b>, Eugenio Aulisa.
-    <i>Computational p-Willmore Flow with Conformal Penalty.</i> ACM Trans. Graph. 39, 5, Article 161 (September 2020), 16 pages. DOI:<a href = https://doi.org/10.1145/3369387>https://doi.org/10.1145/3369387</a>.
-    <a href=  "https://dl.acm.org/doi/10.1145/3369387?cid=99659571076">Available here.</a> </li> <br>
+    <i>Computational p-Willmore Flow with Conformal Penalty.</i> ACM Trans. Graph. 39, 5, Article 161 (September 2020), 16 pages. DOI:[https://doi.org/10.1145/3369387](https://doi.org/10.1145/3369387).  [Available here](https://dl.acm.org/doi/10.1145/3369387?cid=99659571076)</li><br>
   <li><b>Anthony Gruber,</b>, Magdalena Toda, Hung Tran.
     <i>On the variation of curvature functionals in a space form
     with application to a generalized Willmore energy</i>,
