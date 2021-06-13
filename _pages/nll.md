@@ -37,6 +37,8 @@ $$ L(\bb{h}) = \frac{1}{|S|}\sum_{s\in S} \nn{(f\circ\bb{h})'(\bb{z}^s)}^2_\perp
 
 where $$ \nn{\cdot}_\perp $$ denotes the norm on the subspace orthogonal to the active direction $$ \bb{e}_1 $$ at each point, i.e. the trace of the quadratic form $$ \sqrt{\IP{}{\cdot}{\cdot}} $$ with respect to the basis $$ \{ \bb{e}_2,...,\bb{e}_n \} $$. This encourages the algorithm to find a mapping $$ \bb{h} $$ which reduces the composite function $$ f\circ\bb{h} $$ to a function of one variable $$ \bb{z}_1 = \bb{g}_1(\bb{z}) $$.  Note that (under some assumptions on $$ f $$) the loss $$ L $$ is coercive on the complement of $$ \bb{z}_1 $$, allowing the network to find something which globally approximates the local mapping guaranteed by the Implicit Function Theorem in a neighborhood of each point.  Experiments show that this is quite successful, producing results which substantially improve over those produced by the original NLL algorithm.
 
+A (mostly) clean implementation of our algorithm can be found on my [code page](/code/).
+
 
 Relevant Publications
 ======
