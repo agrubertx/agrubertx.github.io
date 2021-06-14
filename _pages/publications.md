@@ -8,15 +8,12 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 12/2020.
 
 # Preprints
-<ol>
-  <li><b>Anthony Gruber</b>.
-    <i>Parallel Codazzi tensors with submanifold applications</i> (under review).
-    Preprint version [available here](https://arxiv.org/abs/2004.03103#).</li>
+1.  <b>Anthony Gruber</b>.  <i>Parallel Codazzi tensors with submanifold applications</i> (under review).
+    Preprint version [available here](https://arxiv.org/abs/2004.03103#).
 
-  <li><b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.
+1.  <b>Anthony Gruber</b>, Magdalena Toda, Hung Tran.
     <i>Stationary surfaces with boundaries</i> (under review).
-    Preprint version [available here](https://arxiv.org/abs/1912.07103).</li>
-</ol>
+    Preprint version [available here](https://arxiv.org/abs/1912.07103).
 
 # Journal Articles
 <ol>
