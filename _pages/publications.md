@@ -8,11 +8,11 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 6/10/2021.
 
 # Preprints
-1.  **Anthony Gruber**, Eugenio Aulisa.  *Quasiconformal Mappings for Surface Mesh Optimization* (under review).  Preprint version [available here](/files/preprints/QC_paper).
+1.  **Anthony Gruber**, Eugenio Aulisa.  *Quasiconformal Mappings for Surface Mesh Optimization* (under review).  Preprint version [available here](/files/preprints/QC_paper.pdf).
 
 1.  **Anthony Gruber**, Max Gunzburger, Lili Ju, Yuankai Teng, Zhu Wang.  *Nonlinear Level Set Learning for Function Approximation on Sparse Data with Applications to Parametric Differential Equations.*  Preprint version [available here](https://arxiv.org/pdf/2104.14072.pdf).
 
-1.  **Anthony Gruber**, Álvaro Pámpano, Magdalena Toda.  *On p-Willmore Disks with Boundary Energies* (under review).  Preprint version [available eventually](/files/preprints/p-Willmore-disks).
+1.  **Anthony Gruber**, Álvaro Pámpano, Magdalena Toda.  *On p-Willmore Disks with Boundary Energies* (under review).  Preprint version [available eventually](/files/preprints/p-Willmore-disks.pdf).
 
 1.  **Anthony Gruber**.  *Parallel Codazzi tensors with submanifold applications* (under review).  Preprint version [available here](https://arxiv.org/abs/2004.03103#).
 
