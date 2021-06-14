@@ -62,6 +62,6 @@ Recorded here is a list of publications, current through 6/10/2021.
     Preprint version [available here](https://arxiv.org/abs/1904.13386#).
 
 # Others
-**Anthony Gruber**.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).
+1.  **Anthony Gruber**.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).
     TTU Electronic Thesis and Dissertation Repository,
     [available here](https://ttu-ir.tdl.org/handle/2346/85351#).
