@@ -207,7 +207,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash # was single
       author_profile: true
   # _teaching
   - scope:
