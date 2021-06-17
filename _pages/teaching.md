@@ -12,15 +12,16 @@ Below you will find my teaching history, as well as syllabi for the courses.
 - &#8811; = Large section (generally >100 students)
 - &#x2600; = Section taught in Costa Rica
 
+## Academic Year 2020
 ### Fall 2020
 - TTU MATH 4350 - Advanced Calculus I &#x2600; [syllabus](/files/syllabi/f2020-4350.pdf)
 - TTU MATH 3360 - Foundations of Algebra I &#x2600; [syllabus](/files/syllabi/f2020-3360.pdf)
 - TTU MATH 2450 - Calculus III with Applications &#x2600; [syllabus](/files/syllabi/f2020-2450.pdf)
-
 ### Spring 2020
 - TTU MATH 3350 - Higher Mathematics for Engineers and Scientists I (ODEs) &#x2600; [syllabus](/files/syllabi/spr2020-3350.pdf)
 - TTU MATH 2450 - Calculus III with Applications &#x2600; [syllabus](/files/syllabi/spr2020-2450.pdf)
 
+## Academic Year 2019
 ### Fall 2019
 - TTU MATH 2450 - Calculus III with Applications &#x2600; [syllabus](/files/syllabi/f2019-2450.pdf)
 - TTU MATH 3310 - Introduction to Critical Reasoning and Proof &#x2600; [syllabus](/files/syllabi/f2019-3310.pdf)
