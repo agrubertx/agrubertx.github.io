@@ -207,7 +207,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: compress # was single
+      layout: single
       author_profile: true
   # _teaching
   - scope:
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: splash # was single
+      layout: single # was single
       author_profile: true
       share: true
       comments: true
