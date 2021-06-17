@@ -11,6 +11,8 @@ redirect_from:
 
 I am a mathematician working on surface theory and its applications to computer graphics, data science, and physics.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
 
+<!-- ![Alt Text](/files/gifs/knotFandB.gif) -->
+
 During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I am very interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
 
 Lately, I'm involved in developing numerical methods for dimension reduction, function approximation, and reduced order modeling.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
