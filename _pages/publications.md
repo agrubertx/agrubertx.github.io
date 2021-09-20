@@ -31,11 +31,11 @@ Recorded here is a list of publications, current through 9/20/2021.
 1.  **Anthony Gruber**.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository, [available here](https://ttu-ir.tdl.org/handle/2346/85351#).
 
 ## Submitted Articles
-1.  **Anthony Gruber**, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling.*  Preprint version [available soon](/publications/).
+1.  **Anthony Gruber**, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling.*  Preprint version [available soon](/#).
 
 1.  **Anthony Gruber**, Eugenio Aulisa.  *Quasiconformal Mappings for Surface Mesh Optimization* (under revision).  Preprint version [available here](/files/preprints/QC_paper.pdf).
 
-1.  **Anthony Gruber**, Álvaro Pámpano, Magdalena Toda.  *On p-Willmore Disks with Boundary Energies* (under review).  Preprint version [available eventually](/files/preprints/p-Willmore-disks.pdf).
+1.  **Anthony Gruber**, Álvaro Pámpano, Magdalena Toda.  *On p-Willmore Disks with Boundary Energies* (under review).  Preprint version [available here](/files/preprints/p-Willmore-Final-Corrections.pdf).
 
 1.  **Anthony Gruber**.  *Parallel Codazzi tensors with submanifold applications* (under review).  Preprint version [available here](https://arxiv.org/abs/2004.03103#).
 
