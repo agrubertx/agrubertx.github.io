@@ -9,20 +9,24 @@ redirect_from:
 ---
 ![image-center](/images/frontpage.jpg){: .align-center}
 
-I am a mathematician working on surface theory and its applications to computer graphics, data science, and physics.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
+I am a mathematician interested in the pure and applied questions that arise during the study of computer graphics and data science.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
 
 <!-- ![Alt Text](/files/gifs/knotFandB.gif) -->
 
-During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I am very interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
+During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I was (and still am) interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
 
-Lately, I'm involved in developing numerical methods for dimension reduction, function approximation, and reduced order modeling.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
+Lately, I'm involved in developing artificial neural network based methods for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
 
-Broad research keywords which tend to interest me include: computational and discrete geometry, surface immersions, curvature functionals, Willmore energy, geometric flows, conservation laws, and integrability problems.
+Broad research keywords which tend to interest me include: computational and discrete geometry, machine learning theory, deep learning for PDEs, surface immersions, Willmore energy, conservation laws, and integrability problems.
 
 Below are some selected snapshots of my work. Each has its own page for further reading.
 
 [//]: # (![image-center](/images/frontpage.jpg){: .align-center} )
 
+
+Comparing Neural Architectures for Reduced-Order Modeling
+------
+![image-left](/images/GCNN_recon2.png){: .align-left}  Advances in artificial neural network technology have let to recent breakthroughs in the reduced-order modeling of parameterized PDEs. Crucial to this is the idea of the autoencoder, a network archetype which learns a nonlinear projection-expansion that enables low-dimensional methods of solution.  This project compares popular autoencoder architectures against a novel design based on graph convolution.  (Joint with [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/), [Lili Ju](https://people.math.sc.edu/ju/), and [Zhu Wang](https://people.math.sc.edu/wangzhu/).) [Read More.](/ROMautoencoder/){: .btn .btn--inverse}
 
 Quasiconformal Mappings for Surface Mesh Optimization
 ------
