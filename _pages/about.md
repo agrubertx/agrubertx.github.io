@@ -41,7 +41,7 @@ Learning the Structure of Level Sets from Sparse Data
 
 Modeling the p-Willmore Flow of Surfaces
 ------
-![image-left](/images/Modelfrontpage.png){: .align-left} Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
+![image-left](/images/cows.png){: .align-left}{: width="250" } Geometric flows are beautiful and powerful tools for prescribing a change in the geometry of a surface.
 This project is a computational study of the p-Willmore flow, with the aim to develop a finite-element model that is amenable to geometric constraints on surface area and enclosed volume.  (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) [Read More.](/surfaceFlow/){: .btn .btn--inverse}
 
 
