@@ -15,7 +15,7 @@ I am a mathematician interested in the pure and applied questions that arise dur
 
 During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I was (and still am) interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
 
-Lately, I'm involved in developing artificial neural network based methods for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
+Lately, I'm involved in developing artificial neural network based methods for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the [Gallery](/gallery/) page.
 
 Broad research keywords which tend to interest me include: computational and discrete geometry, machine learning theory, deep learning for PDEs, surface immersions, Willmore energy, conservation laws, and integrability problems.  A more detailed description of my interests can be found in my [academic research statement](/files/Research_Statement.pdf) (current as of 9/21).
 
