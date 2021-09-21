@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 9/20/2021.
+Recorded here is a list of publications, current through 9/2021.
 
 ## Journal Articles
 1.  **Anthony Gruber**.  *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique.*  Bull. Aust. Math. Soc. (in press).  Preprint version [available here](https://arxiv.org/abs/2107.13707#).
