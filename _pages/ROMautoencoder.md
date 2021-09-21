@@ -1,5 +1,5 @@
 ---
-permalink: /autoencoder-ROM/
+permalink: /autoencoder-rom/
 title: "Comparing Neural Architectures for Reduced-Order Modeling"
 excerpt: "Neural Architectures for ROM"
 author_profile: true
