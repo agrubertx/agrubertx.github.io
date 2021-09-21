@@ -47,7 +47,7 @@ This project is a computational study of the p-Willmore flow, with the aim to de
 
 Active Manifolds: Geometric Data Analysis for Dimension Reduction
 ------
-![image-left](/images/AMpic.png){: .align-left}{: width="200" } Scientists and engineers are frequently presented with mathematical models that are difficult to analyze due to their reliance on a large number of parameters. This project is inspired by the Active Subspaces idea of [Paul Constantine](https://scholar.google.com/citations?user=7x-Q4Y8AAAAJ&hl=en), and provides an algorithm which reduces the dimension of an unknown function to 1 regardless of the size of the original input space. (Joint with [Robert Bridges](https://sites.google.com/site/robertbridgeshomepage/).) [Read More.](/am/){: .btn .btn--inverse}
+![image-left](/images/AMpic.png){: .align-left}{: width="200" } AAAAAAA .  Scientists and engineers are frequently presented with mathematical models that are difficult to analyze due to their reliance on a large number of parameters. This project is inspired by the Active Subspaces idea of [Paul Constantine](https://scholar.google.com/citations?user=7x-Q4Y8AAAAJ&hl=en), and provides an algorithm which reduces the dimension of an unknown function to 1 regardless of the size of the original input space. (Joint with [Robert Bridges](https://sites.google.com/site/robertbridgeshomepage/).) [Read More.](/am/){: .btn .btn--inverse}
 
 
 Curvature Functionals and p-Willmore Energy
