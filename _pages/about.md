@@ -17,7 +17,7 @@ During my PhD, I applied techniques from Riemannian geometry, variational calcul
 
 Lately, I'm involved in developing artificial neural network based methods for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the "Gallery" page.
 
-Broad research keywords which tend to interest me include: computational and discrete geometry, machine learning theory, deep learning for PDEs, surface immersions, Willmore energy, conservation laws, and integrability problems.  A more detailed description of my interests can be found in my [academic research statement](/files/Research_Statement_2021.pdf) (current as of 9/21).
+Broad research keywords which tend to interest me include: computational and discrete geometry, machine learning theory, deep learning for PDEs, surface immersions, Willmore energy, conservation laws, and integrability problems.  A more detailed description of my interests can be found in my [academic research statement](/files/Research_Statement.pdf) (current as of 9/21).
 
 Below are some selected snapshots of my work. Each has its own page for further reading.
 
