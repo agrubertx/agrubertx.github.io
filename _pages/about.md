@@ -28,6 +28,7 @@ Comparing Neural Architectures for Reduced-Order Modeling
 ------
 ![image-left](/images/GCNN_recon2.png){: .align-left}{: width="250" }  Advances in artificial neural network technology have let to recent breakthroughs in the reduced-order modeling of parameterized PDEs. Crucial to this is the idea of the autoencoder, a network archetype which learns a nonlinear projection-expansion that enables low-dimensional methods of solution.  This project compares popular autoencoder architectures against a novel design based on graph convolution.  (Joint with [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/), [Lili Ju](https://people.math.sc.edu/ju/), and [Zhu Wang](https://people.math.sc.edu/wangzhu/).) [Read More.](/ROMautoencoder/){: .btn .btn--inverse}
 
+
 Quasiconformal Mappings for Surface Mesh Optimization
 ------
 ![image-left](/images/QCfront.png){: .align-left}{: width="250" } Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.  (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) [Read More.](/quasiconformal/){: .btn .btn--inverse}
