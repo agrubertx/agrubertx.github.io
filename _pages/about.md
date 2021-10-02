@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![image-center](/images/frontpage.jpg){: .align-center}
+<!-- ![image-center](/images/frontpage.jpg){: .align-center} -->
+
+![image-left](/images/me.png){: width="400" } ![image-right](/files/gifs/knotFandB.gif){: width="300" }
 
 I am a mathematician interested in the pure and applied questions that arise during the study of computer graphics and data science.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
 
@@ -20,8 +22,6 @@ Lately, I'm involved in developing artificial neural network based methods for d
 Broad research keywords which tend to interest me include: computational and discrete geometry, machine learning theory, deep learning for PDEs, surface immersions, Willmore energy, conservation laws, and integrability problems.  A more detailed description of my interests can be found in my [academic research statement](/files/Research_Statement.pdf) (current as of 9/21).
 
 Below are some selected snapshots of my work. Each has its own page for further reading.
-
-[//]: # (![image-center](/images/frontpage.jpg){: .align-center} )
 
 
 Comparing Neural Architectures for Reduced-Order Modeling
