@@ -32,4 +32,4 @@ Comparisons on benchmark problems are performed, and results indicate that the s
 
 Relevant Publications
 ======
-<b>Anthony Gruber</b>, Max Gunzburger, Lili Ju, Zhu Wang. <i>Neural Architectures for Data Compression and Reduced-Order Modeling.</i>  Preprint version [available soon.](/autoencoder-rom/)
+<b>Anthony Gruber</b>, Max Gunzburger, Lili Ju, Zhu Wang. <i>Neural Architectures for Data Compression and Reduced-Order Modeling.</i>  Preprint version [available here.](https://arxiv.org/abs/2110.03442#)
