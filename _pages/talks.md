@@ -5,9 +5,11 @@ author_profile: true
 excerpt: "Talks"
 ---
 
-Some selected presentations, current through 9/2021.
+Some selected presentations, current through 10/2021.
 
 ## Invited Presentations
+-  **Anthony Gruber**.  Invited Talk, Cameron University Mathematics Seminar Series, Lawton, OK (virtual).  *Calculus for Computer Graphics and Data Science*, (50 min; Oct. 19, 2021).  Slides [available here](/files/slides/Cameron.pdf).
+
 -  **Anthony Gruber**.  Invited Talk, SIAM Southeastern Atlantic Section, special session on Deep Learning Methods for Data Driven Models, Auburn University, Auburn, AL, Sep. 17-18, 2021.  *Convolutional neural networks for data compression and reduced order modeling*, (30 min; Sep. 18, 2021).  Slides [available here](/files/slides/Siam_SEAS.pdf).
 
 -  **Anthony Gruber**.  Paper presentation, 18th International Conference of Numerical Analysis and Applied Mathematics (virtual), Rhodes, Greece, Sep 17-23, 2020. *Willmore stable minimal surfaces*, (30 min; Sep. 17, 2020.)  Slides [available here](/files/slides/WSMS_slides.pdf).

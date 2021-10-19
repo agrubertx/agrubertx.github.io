@@ -5,10 +5,10 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 9/2021.
+Recorded here is a list of publications, current through 10/2021.
 
 ## Journal Articles
-1.  **Anthony Gruber**.  *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique.*  Bull. Aust. Math. Soc. (in press).  Preprint version [available here](https://arxiv.org/abs/2107.13707#).
+1.  **Anthony Gruber**.  *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique.*  Bull. Aust. Math. Soc. 1-6 (2021).  DOI: [https://doi.org/10.1017/S0004972721000812](https://doi.org/10.1017/S0004972721000812).  Preprint version [available here](https://arxiv.org/abs/2107.13707#).
 
 1.  **Anthony Gruber**, Max Gunzburger, Lili Ju, Yuankai Teng, Zhu Wang.  *Nonlinear Level Set Learning for Function Approximation on Sparse Data with Applications to Parametric Differential Equations.*  Numer. Math. Theor. Meth. Appl. (2021).  DOI: [https://doi.org/10.4208/nmtma.OA-2021-0062](https://doi.org/10.4208/nmtma.OA-2021-0062).  Preprint version [available here](https://arxiv.org/abs/2104.14072#).
 
