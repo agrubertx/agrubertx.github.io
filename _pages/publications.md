@@ -42,3 +42,30 @@ Recorded here is a list of publications, current through 10/2021.
 1.  **Anthony Gruber**.  *Parallel Codazzi tensors with submanifold applications*, (under review).  Preprint version [available here](https://arxiv.org/abs/2004.03103#).
 
 1.  **Anthony Gruber**, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries*, (under review).  Preprint version [available here](https://arxiv.org/abs/1912.07103#).
+
+
+&nbsp;
+# Corrigenda to Published Works
+---
+All Arxiv preprints are kept up-to-date with this list.  If you notice any mistakes (or suspected mistakes) in the above publications, e-mail notifications are appreciated.
+
+In *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique*.
+{% raw %}
+- Section 2, Paragraph 1:
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> $$ \mathbf{v} \otimes \mathbf{v} - 2|\mathbf{v}|^2\,1 $$ </span> $$ \,\,\longrightarrow\,\, $$ <span style="color:green"> $$ \mathbf{v} \otimes \mathbf{v} - |\mathbf{v}|^2\,1 $$ </span>.
+{% endraw %}
+
+In *On the variation of curvature functionals in a space form with application to a generalized Willmore energy*.
+
+{% raw %}
+- Equation (22), line 2:
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> $$ \frac{1}{2}\langle \nabla |h|^2, \nabla f\rangle $$ </span> $$ \,\,\longrightarrow\,\, $$ <span style="color:green"> $$ \frac{1}{2}u \langle \nabla |h|^2, \nabla f\rangle $$ </span>.
+{% endraw %}
+
+{% raw %}
+- Equation (35), line 3:
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> $$ - h^{ij}(\delta\Gamma^k_{ij})f_k + h^{ij}g^{kl}(u_ih_{jl}+u_jh_{il}-u_lh_{ij})f_k $$ </span> $$ \,\,\longrightarrow\,\, $$ <span style="color:green"> $$ -h^{ij}(\delta\Gamma^k_{ij})f_k $$ </span>.
+{% endraw %}
