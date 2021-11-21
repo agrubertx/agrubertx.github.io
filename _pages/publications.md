@@ -44,7 +44,7 @@ DOI: [https://doi.org/10.1007/s10455-019-09661-0](https://doi.org/10.1007/s10455
 1.  **Anthony Gruber**.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ## Submitted Articles
-[Preprint](/files/preprints/pseudo_rev_NN.pdf/){: .btn .btn--info .btn--small}{: .align-right}
+[Preprint](/files/preprints/pseudo_rev_NN.pdf){: .btn .btn--info .btn--small}{: .align-right}
 1.  Yuankai Teng, Zhu Wang, Lili Ju, **Anthony Gruber**, Guannan Zhang.  *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation*, (under review).
 
 [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}
