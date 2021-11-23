@@ -13,7 +13,7 @@ Anthony Gruber.  *Planar Immersions with Prescribed Curl and Jacobian Determinan
 DOI: [https://doi.org/10.1017/S0004972721000812](https://doi.org/10.1017/S0004972721000812).
 
 1. [Preprint](https://arxiv.org/abs/2104.14072#){: .btn .btn--info .btn--small}{: .align-right}
-Anthony Gruber, Max Gunzburger, Lili Ju, Yuankai Teng, Zhu Wang.  *Nonlinear Level Set Learning for Function Approximation on Sparse Data with Applications to Parametric Differential Equations*.  **Numer. Math. Theor. Meth. Appl.** (2021).  DOI: [https://doi.org/10.4208/nmtma.OA-2021-0062](https://doi.org/10.4208/nmtma.OA-2021-0062).
+Anthony Gruber, Max Gunzburger, Lili Ju, Yuankai Teng, Zhu Wang.  *Nonlinear Level Set Learning for Function Approximation on Sparse Data with Applications to Parametric Differential Equations*.  **Numer. Math. Theory Methods Appl.** (2021).  DOI: [https://doi.org/10.4208/nmtma.OA-2021-0062](https://doi.org/10.4208/nmtma.OA-2021-0062).
 
 1. [Preprint](https://arxiv.org/abs/2010.00149#){: .btn .btn--info .btn--small}{: .align-right}
 Anthony Gruber, Álvaro Pámpano, Magdalena Toda.  *Regarding the Euler-Plateau Problem with Elastic Modulus*. **Ann. Mat. Pura. Appl.** (2021).  
