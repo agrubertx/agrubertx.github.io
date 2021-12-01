@@ -66,7 +66,7 @@ Yuankai Teng, Zhu Wang, Lili Ju, **Anthony Gruber**, Guannan Zhang.  *Learning L
 &nbsp;
 # Corrigenda to Published Works
 ---
-All Arxiv preprints are kept up-to-date with this list.  If you notice any mistakes (or suspected mistakes) in the above publications, e-mail notifications are appreciated.
+All Arxiv preprints are kept up-to-date with this list.  If you notice any typos/errors (or suspected errors) in the above publications, e-mail notifications are appreciated.
 
 In *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique*.
 {% raw %}
