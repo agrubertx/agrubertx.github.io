@@ -5,9 +5,12 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 11/2021.
+Recorded here is a list of publications, current through 2/2022.
 
 ## Journal Articles
+1. [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}
+Anthony Gruber, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling*.  **Comput. Methods Appl. Mech. Eng.** (2022).  DOI: [https://doi.org/10.1016/j.cma.2022.114764](https://doi.org/10.1016/j.cma.2022.114764).
+
 1. [Preprint](https://arxiv.org/abs/2107.13707#){: .btn .btn--info .btn--small}{: .align-right}
 Anthony Gruber.  *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique*.  **Bull. Aust. Math. Soc.** 1-6 (2021).  
 DOI: [https://doi.org/10.1017/S0004972721000812](https://doi.org/10.1017/S0004972721000812).
@@ -44,11 +47,8 @@ Robert A. Bridges, **Anthony D. Gruber**, Christopher Felder, Miki Verma, Chelse
 **Anthony Gruber**.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ## Submitted Articles
-1. [Preprint](/files/preprints/pseudo_rev_NN.pdf){: .btn .btn--info .btn--small}{: .align-right}
+1. [Preprint](https://arxiv.org/abs/2112.01438){: .btn .btn--info .btn--small}{: .align-right}
 Yuankai Teng, Zhu Wang, Lili Ju, **Anthony Gruber**, Guannan Zhang.  *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation*, (under review).
-
-1. [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}
-**Anthony Gruber**, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling*, (under review).
 
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
 **Anthony Gruber**, Eugenio Aulisa.  *Quasiconformal Mappings for Surface Mesh Optimization*, (under revision).
