@@ -34,17 +34,17 @@ DOI: [https://doi.org/10.1007/s10455-019-09661-0](https://doi.org/10.1007/s10455
 
 ## Articles in Refereed Conference Proceedings
 1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
-Anthony Gruber, Eugenio Aulisa.  *Quaternionic Remeshing During Surface Evolution* (to appear). **Proceedings of ICNAAM**, Rhodes, Greece 2020.
+Anthony Gruber, Eugenio Aulisa.  *Quaternionic Remeshing During Surface Evolution* (to appear). **Proceedings of the 18th ICNAAM**, Rhodes, Greece (2020).
 
 1. [Preprint](/files/preprints/WSMS.pdf){: .btn .btn--info .btn--small}{: .align-right}
-Anthony Gruber, Magdalena Toda, Hung Tran.  *Willmore-Stable Minimal Surfaces* (to appear). **Proceedings of ICNAAM**, Rhodes, Greece 2020.
+Anthony Gruber, Magdalena Toda, Hung Tran.  *Willmore-Stable Minimal Surfaces* (to appear). **Proceedings of the 18th ICNAAM**, Rhodes, Greece (2020).
 
 1. [Preprint](/files/preprints/PWillmoreGIQ.pdf){: .btn .btn--info .btn--small}{: .align-right}
-Eugenio Aulisa, Anthony Gruber, Magdalena Toda, Hung Tran.  *New Developments on the p-Willmore Energy of Surfaces*, **Proceedings of the XXIst Conference on Geometry, Integrability and Quantization**, BAS - Varna 2019.  
+Eugenio Aulisa, Anthony Gruber, Magdalena Toda, Hung Tran.  *New Developments on the p-Willmore Energy of Surfaces*, **Proceedings of the XXIst GIQ**, BAS - Varna (2019).  
 DOI: [https://doi.org/10.7546/giq-21-2020-57-65](https://doi.org/10.7546/giq-21-2020-57-65).
 
-1. [Preprint](https://arxiv.org/abs/1904.13386#){: .btn .btn--info .btn--small}{: .align-right}
-Robert A. Bridges, Anthony D. Gruber, Christopher Felder, Miki Verma, Chelsey Hoff.  *Active Manifolds: A non-linear analogue to Active Subspaces*. **Volume 97: ICML** (2019).
+1. [Here](http://proceedings.mlr.press/v97/bridges19a/bridges19a.pdf){: .btn .btn--info .btn--small}{: .align-right}
+Robert A. Bridges, Anthony D. Gruber, Christopher Felder, Miki Verma, Chelsey Hoff.  *Active Manifolds: A non-linear analogue to Active Subspaces*. **Proceedings of the 36th ICML**, PMLR 97:764-772 (2019).
 
 ## Others
 1. [Here](https://ttu-ir.tdl.org/handle/2346/85351#){: .btn .btn--info .btn--small}{: .align-right}
