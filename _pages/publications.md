@@ -33,11 +33,13 @@ Anthony Gruber, Magdalena Toda, Hung Tran.  *On the variation of curvature funct
 DOI: [https://doi.org/10.1007/s10455-019-09661-0](https://doi.org/10.1007/s10455-019-09661-0).
 
 ## Articles in Refereed Conference Proceedings
-1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
-Anthony Gruber, Eugenio Aulisa.  *Quaternionic Remeshing During Surface Evolution* (to appear). **Proceedings of the 18th ICNAAM**, Rhodes, Greece (2020).
+1. [Here](https://aip.scitation.org/doi/pdf/10.1063/5.0081306){: .btn .btn--info .btn--small}{: .align-right}
+Anthony Gruber, Eugenio Aulisa.  *Quaternionic Remeshing During Surface Evolution*, **AIP Conference Proceedings** 2425, 330003 (2022). 
+DOI: [https://doi.org/10.1063/5.0081306](https://doi.org/10.1063/5.0081306).
 
-1. [Preprint](/files/preprints/WSMS.pdf){: .btn .btn--info .btn--small}{: .align-right}
-Anthony Gruber, Magdalena Toda, Hung Tran.  *Willmore-Stable Minimal Surfaces* (to appear). **Proceedings of the 18th ICNAAM**, Rhodes, Greece (2020).
+1. [Here](https://aip.scitation.org/doi/pdf/10.1063/5.0081304){: .btn .btn--info .btn--small}{: .align-right}
+Anthony Gruber, Magdalena Toda, Hung Tran.  *Willmore-Stable Minimal Surfaces*, **AIP Conference Proceedings** 2425, 330004 (2022). 
+DOI: [https://doi.org/10.1063/5.0081304](https://doi.org/10.1063/5.0081304).
 
 1. [Preprint](/files/preprints/PWillmoreGIQ.pdf){: .btn .btn--info .btn--small}{: .align-right}
 Eugenio Aulisa, Anthony Gruber, Magdalena Toda, Hung Tran.  *New Developments on the p-Willmore Energy of Surfaces*, **Proceedings of the XXIst GIQ**, BAS - Varna (2019).  
@@ -51,6 +53,9 @@ Robert A. Bridges, Anthony D. Gruber, Christopher Felder, Miki Verma, Chelsey Ho
 **Anthony Gruber**.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ## Submitted Articles
+1. [Preprint](/files/preprints/SPROM_project.pdf){: .btn .btn--info .btn--small}{: .align-right}
+**Anthony Gruber**, Max Gunzburger, Lili Ju, Zhu Wang.  *Energetically Consistent Model Reduction for Metriplectic Systems*, (ready to submit).
+
 1. [Preprint](https://arxiv.org/abs/2112.01438){: .btn .btn--info .btn--small}{: .align-right}
 Yuankai Teng, Zhu Wang, Lili Ju, **Anthony Gruber**, Guannan Zhang.  *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation*, (under review).
 
