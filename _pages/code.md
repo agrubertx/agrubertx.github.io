@@ -5,6 +5,8 @@ author_profile: true
 excerpt: "Code"
 ---
 
+[Metriplectic-POD-ROM](https://github.com/agrubertx/metriplectic_POD-ROM){: .btn .btn--info .btn--small}  An example-focused Jupyter notebook implementation of our metriplectic POD-ROM algorithm.
+
 [Data-Driven-ROM](https://github.com/agrubertx/Data-Driven-ROM){: .btn .btn--info .btn--small}{: .align-left}  A (mostly clean) Python implementation of our autoencoder-based ROMs.  Also includes POD-ROM code for the 1-D inviscid Burger's equation and the 2-D unsteady Navier-Stokes equations.
 
 [New-NLL](https://github.com/agrubertx/New-NLL){: .btn .btn--info .btn--small}{: .align-left}  A clean Python implementation of our modified NLL algorithm.
