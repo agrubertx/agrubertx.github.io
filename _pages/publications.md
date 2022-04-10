@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 2/2022.
+Recorded here is a list of publications, current through 4/2022.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}

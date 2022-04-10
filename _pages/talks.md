@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Talks"
 ---
 
-Some selected presentations, current through 10/2021.
+Some selected presentations, current through 4/2022.
 
 ## Invited Presentations  
 [Slides](/files/slides/Colloquium_Fall_2021.pdf){: .btn .btn--info .btn--small}{: .align-right}
