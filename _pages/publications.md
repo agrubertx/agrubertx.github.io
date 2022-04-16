@@ -9,7 +9,7 @@ Recorded here is a list of publications, current through 4/2022.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}
-<u>Anthony Gruber</u>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling*.  **Comput. Methods Appl. Mech. Eng.** (2022).  
+<ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling*.  **Comput. Methods Appl. Mech. Eng.** (2022).  
 DOI: [https://doi.org/10.1016/j.cma.2022.114764](https://doi.org/10.1016/j.cma.2022.114764).
 
 1. [Preprint](https://arxiv.org/abs/2107.13707#){: .btn .btn--info .btn--small}{: .align-right}
