@@ -11,17 +11,19 @@ redirect_from:
 
 ![image-left](/images/me.png){: width="400" } ![image-right](/files/gifs/knotFandB.gif){: width="300" }
 
-I am a mathematician interested in the pure and applied questions that arise during the study of computer graphics and data science.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
+I am a mathematician interested in the pure and applied questions that arise in the context of data science, nonlinear partial differential equations (PDEs), and scientific machine learning.  A differential geometer by training, I received my PhD from Texas Tech University under the guidance of [Magdalena Toda](http://www.math.ttu.edu/~mtoda/), with co-advisors [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/) and [Hung Tran](https://www.math.uci.edu/~hungtt1/).  
 
 <!-- ![Alt Text](/files/gifs/knotFandB.gif) -->
 
-During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I was (and still am) interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.
+During my PhD, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I was (and still am) interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.  I also spent quite a bit of time thinking about the computational modeling of geometric objects, sparking a standing interest in computer graphics which can be seen in the various simulation videos found on the [Gallery](/gallery/) page.
 
-Lately, I'm involved in developing artificial neural network based methods for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  In addition, I enjoy working on the computer visualization of geometric objects -- as can be seen in the various simulation videos found on the [Gallery](/gallery/) page.
+After graduate school, I became more involved in machine learning and scientific algorithm development for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  At the same time as my application-driven interests were shifting, my purer "side project" work also moved in the direction of rigidity results for geometric objects constrained by curvature conditions.
 
-Broad research keywords which tend to interest me include: computational and discrete geometry, machine learning theory, deep learning for PDEs, surface immersions, Willmore energy, conservation laws, and integrability problems.  A more detailed description of my interests can be found in my [academic research statement](/files/Research_Statement.pdf) (current as of 9/21).
+Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this involves identifying/reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements the proposed discretization.  Over time, I've found that my preferred "flavor" of research problem creates opportunity for algebraic reasoning, flashy visuals, and short "punchy" arguments which are characteristic of my personal style.
 
-Below are some selected snapshots of my work. Each has its own page for further reading.
+Broad research keywords which tend to interest me include: scientific machine learning, computational and discrete geometry, conservation laws, reduced-order modeling, manifold learning, harmonic maps, surface immersions, and integrability problems.  A more detailed description of my interests can be found in my [academic research statement](/files/Research_Statement.pdf) (current as of 9/21).  
+
+Below are some coarse categories containing (some of) my work. Each has its own page for further reading.  Finishing and updating this part of the website is on my to-do list.
 
 
 Comparing Neural Architectures for Reduced-Order Modeling
