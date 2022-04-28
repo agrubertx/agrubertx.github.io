@@ -78,7 +78,9 @@ Structure-Informed Function Approximation and Model Reduction
 
 Rigidity Results for Immersed Submanifolds
 -----
-![image-left](/images/Willmore-Hopf-5-1.jpeg){: .align-left}{: width="210" } Many practical problems involving shape deformation can be understood in the context of "allowable" mappings between Riemannan spaces.  When these mappings are constrained by natural geometric conditions on e.g. curvature, their existence is governed by overdetermined PDEs which are difficult to approach using classical analytic techniques.  These projects establish characterization results in my preferred style for certain classes of mappings which I have encountered in applications.  (Picture courtesy of [Álvaro Pámpano](https://www.math.ttu.edu/~apampano/index.html).)
+![image-left](/images/Willmore-Hopf-5-1.jpeg){: .align-left}{: width="210" } Many practical problems involving shape deformation can be understood in the context of "allowable" mappings between Riemannan spaces.  When these mappings are constrained by natural geometric conditions on e.g. curvature, their existence is governed by overdetermined PDEs which are difficult to approach using classical analytic techniques.  These projects establish characterization results in my preferred style for certain classes of mappings which I have encountered in applications.  
+<br>
+(Hopf torus courtesy of [Álvaro Pámpano](https://www.math.ttu.edu/~apampano/index.html).)
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
