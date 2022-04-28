@@ -8,6 +8,9 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 4/2022.
 
 ## Journal Articles
+1. [Preprint](https://arxiv.org/abs/1912.07103#){: .btn .btn--info .btn--small}{: .align-right}
+<ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries*.  **Ann. Glob. Anal. Geom.** (to appear).
+
 1. [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling*.  **Comput. Methods Appl. Mech. Eng.** (2022).  
 DOI: [https://doi.org/10.1016/j.cma.2022.114764](https://doi.org/10.1016/j.cma.2022.114764).
@@ -25,7 +28,7 @@ DOI: [https://doi.org/10.4208/nmtma.OA-2021-0062](https://doi.org/10.4208/nmtma.
 DOI: [https://doi.org/10.1007/s10231-021-01079-5](https://doi.org/10.1007/s10231-021-01079-5).
 
 1. [Here](https://dl.acm.org/doi/10.1145/3369387?cid=99659571076){: .btn .btn--info .btn--small}{: .align-right}
-v, Eugenio Aulisa.  *Computational p-Willmore Flow with Conformal Penalty*. **ACM Trans. Graph.** 39, 5, Article 161 (September 2020), 16 pages.  
+<ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Computational p-Willmore Flow with Conformal Penalty*. **ACM Trans. Graph.** 39, 5, Article 161 (September 2020), 16 pages.  
 DOI: [https://doi.org/10.1145/3369387](https://doi.org/10.1145/3369387).
 
 1. [Preprint](https://arxiv.org/abs/1905.01759#){: .btn .btn--info .btn--small}{: .align-right}
@@ -53,10 +56,10 @@ Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma,
 <ins>Anthony Gruber</ins>.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ## Submitted Articles
-1. [Preprint](/files/preprints/SPROM_project.pdf){: .btn .btn--info .btn--small}{: .align-right}
-<ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *Energetically Consistent Model Reduction for Metriplectic Systems*, (ready to submit).
+1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
+<ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *Energetically Consistent Model Reduction for Metriplectic Systems*, (submitted).
 
-1. [Preprint](https://arxiv.org/abs/2112.01438){: .btn .btn--info .btn--small}{: .align-right}
+1. [Preprint](https://arxiv.org/abs/2112.01438#){: .btn .btn--info .btn--small}{: .align-right}
 Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation*, (under review).
 
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
@@ -67,9 +70,6 @@ Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  *Lea
 
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications*, (under review).
-
-1. [Preprint](https://arxiv.org/abs/1912.07103#){: .btn .btn--info .btn--small}{: .align-right}
-<ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries*, (under review).
 
 
 &nbsp;
