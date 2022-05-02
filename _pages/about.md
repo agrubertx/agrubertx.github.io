@@ -15,7 +15,7 @@ redirect_from:
 I am a mathematician interested in basic and applied research questions that arise in the contexts of data science, nonlinear partial differential equations (PDEs), and scientific machine learning.
 <!-- {: .notice--success} -->
 
-Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying or reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements whatever approach I propose.  Over time, I've found that my preferred "flavor" of research problem leaves ample opportunity for spatial reasoning, flashy visuals, and "punchy" algebraic arguments which are characteristic of my personal style.
+Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying or reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements whatever approach I propose.  Over time, I've found that my preferred flavor of research problem leaves ample opportunity for geometric ideas, satisfying visuals, and punchy algebraic arguments which are characteristic of my personal style.
 
 <details markdown="1"><summary><b>More about me</b></summary>
 {: .notice--info}
