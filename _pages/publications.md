@@ -5,9 +5,12 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 4/2022.
+Recorded here is a list of publications, current through 5/2022.
 
 ## Journal Articles
+1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
+<ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications*.  **Math. Nachr.** (to appear).
+
 1. [Preprint](https://arxiv.org/abs/1912.07103#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries*.  **Ann. Glob. Anal. Geom.** (to appear).
 
@@ -67,9 +70,6 @@ Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  *Lea
 
 1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  *On p-Willmore Disks with Boundary Energies*, (under review).
-
-1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
-<ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications*, (under review).
 
 
 &nbsp;
