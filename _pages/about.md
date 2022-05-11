@@ -10,12 +10,16 @@ redirect_from:
 <!-- ![image-center](/images/frontpage.jpg){: .align-center} -->
 <!-- ![Alt Text](/files/gifs/knotFandB.gif) -->
 
-![image-left](/images/me.png){: width="400" } ![image-right](/files/gifs/knotFandB.gif){: width="300" }
+<!-- ![image-left](/images/me.png){: width="400" } ![image-right](/files/gifs/knotFandB.gif){: width="300" } -->
+
+![image-left](/images/me_over_gorge.jpg){: width="280" } ![image-left](/images/me_w_sunglasses.jpg){: width="160" } ![image-left](/images/me.png){: width="320" }
+
+<!-- ![image-left](/images/me.png){: width="300" } ![image-left](/images/me_w_sunglasses.jpg){: width="200" } ![image-right](/files/gifs/knotFandB.gif){: width="200" } -->
 
 I am a mathematician interested in basic and applied research questions that arise in the contexts of data science, nonlinear partial differential equations (PDEs), and scientific machine learning.
 <!-- {: .notice--success} -->
 
-Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying or reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements whatever approach I propose.  Over time, I've found that my preferred flavor of research problem leaves ample opportunity for geometric ideas, satisfying visuals, and punchy algebraic arguments which are characteristic of my personal style.
+Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying or reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements a proposed approach.  Over time, I've found that my preferred flavor of research problem leaves ample opportunity for geometric ideas, satisfying visuals, and punchy algebraic arguments which are characteristic of my personal style.
 
 <details markdown="1"><summary><b>More about me</b></summary>
 {: .notice--info}
@@ -33,7 +37,7 @@ Broad research keywords which tend to interest me include: scientific machine le
 </details>
 
 
-Below are some coarse categories containing (some of) my work. Some have their own page for further reading.  (This part of the website is a work-in-progress.)
+![image-right](/files/gifs/knotFandB.gif){: .align-right}{: width="200" } <br><br> Below are some coarse categories containing (some of) my work. Some have their own page for further reading.  (This part of the website is a work-in-progress.) <br><br>
 
 
 Structure-Informed Function Approximation and Model Reduction
