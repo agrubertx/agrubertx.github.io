@@ -39,11 +39,11 @@ DOI: [https://doi.org/10.1145/3369387](https://doi.org/10.1145/3369387).
 DOI: [https://doi.org/10.1007/s10455-019-09661-0](https://doi.org/10.1007/s10455-019-09661-0).
 
 ## Articles in Refereed Conference Proceedings
-1. [Here](https://aip.scitation.org/doi/pdf/10.1063/5.0081306){: .btn .btn--info .btn--small}{: .align-right}
+1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Quaternionic Remeshing During Surface Evolution*, **AIP Conference Proceedings** 2425, 330003 (2022).  
 DOI: [https://doi.org/10.1063/5.0081306](https://doi.org/10.1063/5.0081306).
 
-1. [Here](https://aip.scitation.org/doi/pdf/10.1063/5.0081304){: .btn .btn--info .btn--small}{: .align-right}
+1. [Preprint](/files/preprints/WSMS.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Willmore-Stable Minimal Surfaces*, **AIP Conference Proceedings** 2425, 330004 (2022).  
 DOI: [https://doi.org/10.1063/5.0081304](https://doi.org/10.1063/5.0081304).
 
