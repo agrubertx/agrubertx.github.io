@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- ![image-left](/images/me.png){: width="400" } ![image-right](/files/gifs/knotFandB.gif){: width="300" } -->
 
-![image-left](/images/me_over_gorge.jpg){: width="280" } ![image-left](/images/me_w_sunglasses.jpg){: width="160" } ![image-left](/images/me.png){: width="320" }
+![image-left](/images/me_over_gorge.JPG){: width="280" } ![image-left](/images/me_w_sunglasses.JPG){: width="160" } ![image-left](/images/me.png){: width="320" }
 
 <!-- ![image-left](/images/me.png){: width="300" } ![image-left](/images/me_w_sunglasses.jpg){: width="200" } ![image-right](/files/gifs/knotFandB.gif){: width="200" } -->
 
