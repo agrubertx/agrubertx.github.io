@@ -12,7 +12,8 @@ Recorded here is a list of publications, current through 5/2022.
 <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications*.  **Math. Nachr.** (to appear).
 
 1. [Preprint](https://arxiv.org/abs/1912.07103#){: .btn .btn--info .btn--small}{: .align-right}
-<ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries*.  **Ann. Glob. Anal. Geom.** (to appear).
+<ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries*.  **Ann. Glob. Anal. Geom.** (2022).
+DOI: [https://doi.org/10.1007/s10455-022-09850-4](https://doi.org/10.1007/s10455-022-09850-4).
 
 1. [Preprint](https://arxiv.org/abs/2110.03442#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling*.  **Comput. Methods Appl. Mech. Eng.** (2022).  

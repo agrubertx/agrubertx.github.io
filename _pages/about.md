@@ -108,7 +108,7 @@ Quaternionic Surface Theory for Graphics and Meshing
 {: .notice}
 
 ### Quasiconformal Mappings for Surface Mesh Optimization  [Read More.](/quasiconformal/){: .btn .btn--info .btn--small}{: .align-right}
-![image-left](/images/QCfront.png){: .align-left}{: width="275" } Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.
+![image-left](/images/torus_dots.png){: .align-left}{: width="275" } Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.
 <br><br>
 (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) <br><br>
 {: .notice--info}
