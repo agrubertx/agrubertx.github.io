@@ -102,13 +102,13 @@ Rigidity Results for Immersed Submanifolds
 
 Quaternionic Surface Theory for Graphics and Meshing
 -----
-![image-left](/images/confcartoon.pdf){: .align-left}{: width="350" } Just as classical complex analysis facilitates study of the conformal geometry of planar domains, the rich algebraic structure of the quaternions enables a useful framework for describing the conformal geometry of surfaces in Euclidean space.  These projects develop and use quaternionic surface theory for graphics and meshing applications.
+![image-left](/images/torus_dots.png){: .align-left}{: width="350" } Just as classical complex analysis facilitates study of the conformal geometry of planar domains, the rich algebraic structure of the quaternions enables a useful framework for describing the conformal geometry of surfaces in Euclidean space.  These projects develop and use quaternionic surface theory for graphics and meshing applications.
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Quasiconformal Mappings for Surface Mesh Optimization  [Read More.](/quasiconformal/){: .btn .btn--info .btn--small}{: .align-right}
-![image-left](/images/torus_dots.png){: .align-left}{: width="275" } Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.
+![image-left](/images/torus_checkerboard.png){: .align-left}{: width="250" } Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.
 <br><br>
 (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) <br><br>
 {: .notice--info}
