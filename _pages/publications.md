@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 5/2022.
+Recorded here is a list of publications, current through 6/2022.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
@@ -60,14 +60,17 @@ Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma,
 <ins>Anthony Gruber</ins>.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ## Submitted Articles
+1. [Preprint](/files/preprints/mfmc_alg.pdf){: .btn .btn--info .btn--small}{: .align-right}
+<ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Multifidelity Monte Carlo Method for Realistic Computational Budgets*, (under review).
+
 1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
-<ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *Energetically Consistent Model Reduction for Metriplectic Systems*, (submitted).
+<ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *Energetically Consistent Model Reduction for Metriplectic Systems*, (under review).
 
 1. [Preprint](https://arxiv.org/abs/2112.01438#){: .btn .btn--info .btn--small}{: .align-right}
 Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation*, (under review).
 
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
-<ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Quasiconformal Mappings for Surface Mesh Optimization*, (under revision).
+<ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Quasiconformal Mappings with Surface Domains*, (under revision).
 
 1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  *On p-Willmore Disks with Boundary Energies*, (under review).
