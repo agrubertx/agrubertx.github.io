@@ -47,7 +47,7 @@ Structure-Informed Function Approximation and Model Reduction
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### A Multifidelity Monte Carlo Method for Realistic Computational Budgets  [Preprint](/files/preprints/mfmc_alg.pdf){: .btn .btn--info .btn--small}{: .align-right}
+### A Multifidelity Monte Carlo Method for Realistic Computational Budgets  [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/mfmc_alg_pic.png" style="max-height: 250px; max-width: 250px; margin-right: 16px; margin-bottom: 10px" align=left>  **Abstract:** A method for the multifidelity Monte Carlo (MFMC) estimation of statistical quantities is proposed which is applicable to computational budgets of any size.  Based on a sequence of optimization problems each with a globally minimizing closed-form solution, this method extends the usability of a well known MFMC algorithm, recovering it when the computational budget is large enough. Theoretical results verify that the proposed approach is at least as optimal as its namesake and retains the benefits of multifidelity estimation with minimal assumptions on the budget or amount of available data, providing a notable reduction in variance over simple Monte Carlo estimation.
 <br><br>
 (Joint with [Max Gunzburger](https://people.sc.fsu.edu/~mgunzburger/), [Lili Ju](https://people.math.sc.edu/ju/), and [Zhu Wang](https://people.math.sc.edu/wangzhu/).)

@@ -60,7 +60,7 @@ Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma,
 <ins>Anthony Gruber</ins>.  *Curvature functionals and p-Willmore energy*.  PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ## Submitted Articles
-1. [Preprint](/files/preprints/mfmc_alg.pdf){: .btn .btn--info .btn--small}{: .align-right}
+1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
 <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Multifidelity Monte Carlo Method for Realistic Computational Budgets*, (under review).
 
 1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
