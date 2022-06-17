@@ -25,14 +25,15 @@ Lately, my focus is primarily on developing structure-informed numerical methods
 {: .notice--info}
 
 A differential geometer by training, I received my PhD from Texas Tech University under the guidance of <a href="http://www.math.ttu.edu/~mtoda/">Magdalena Toda</a>, with co-advisors <a href="http://www.math.ttu.edu/~eaulisa/">Eugenio Aulisa</a> and <a href="https://www.math.uci.edu/~hungtt1/">Hung Tran</a>. At this time, I applied techniques from Riemannian geometry, variational calculus, and differential topology to study functionals involving surface curvature, with the ultimate goal of understanding their extrema. Moreover, I was (and still am) interested in understanding the possible immersions of a given topological space inside another, including what configurations are "preferred" (usually energy-minimizing) in this case.  I also spent quite a bit of time thinking about the computational modeling of geometric objects, sparking a standing interest in computer graphics which can be seen in the various simulation videos found on the <a href="/gallery/">Gallery</a> page.
-
+<br><br>
 Catalyzed by an NSF internship at Oak Ridge National Lab (featured [here!](https://orise.orau.gov/nsf-msgi/profiles/gruber.html)) toward the end of graduate school where I worked with <a href="https://sites.google.com/site/robertbridgeshomepage/">Robert Bridges</a>, I became involved post-PhD in scientific algorithm development for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  This led to a postdoctoral appointment with <a href="https://people.sc.fsu.edu/~mgunzburger/">Max Gunzburger</a> at FSU working on data-driven strategies for predictive tasks related to ocean modeling.  At the same time as my application-driven interests were shifting, my purer "side project" work also moved in the direction of rigidity results for geometric objects constrained by curvature conditions.  Now, I maintain active interests in several areas of mathematics, computer science, and engineering.
+<br><br>
+Broad research keywords which tend to interest me include: scientific machine learning, computational and discrete geometry, conservation laws, reduced-order modeling, manifold learning, harmonic maps, surface immersions, and integrability problems.  A more detailed description of my interests can be found in my <a href="/files/Research_Statement.pdf">academic research statement</a> (current as of 9/21).
+{: .notice--info}
 
 <!-- Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying/reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements the proposed discretization.  Over time, I've found that my preferred "flavor" of research problem creates ample opportunity for algebraic reasoning, flashy visuals, and short "punchy" arguments which are characteristic of my personal style.
 
 <br><br> -->
-
-Broad research keywords which tend to interest me include: scientific machine learning, computational and discrete geometry, conservation laws, reduced-order modeling, manifold learning, harmonic maps, surface immersions, and integrability problems.  A more detailed description of my interests can be found in my <a href="/files/Research_Statement.pdf">academic research statement</a> (current as of 9/21).
 
 </details>
 
@@ -113,7 +114,7 @@ Quaternionic Surface Theory for Graphics and Meshing
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Quasiconformal Mappings for Surface Mesh Optimization  [Read More.](/quasiconformal/){: .btn .btn--info .btn--small}{: .align-right}
+### Quasiconformal Mappings with Surface Domains [Read More.](/quasiconformal/){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/torus_checkerboard.png" style="max-height: 225px; max-width: 225px; margin-right: 16px" align=left>  Computational quasiconformal mappings are flexible tools for everything from surface remeshing to object deformation.  This project develops a single-stage genus-agnostic algorithm for computing Teichm&uuml;ller quasiconformal mappings from surfaces represented as manifold meshes in $$ \mathbb{R}^3 $$.
 <br><br>
 (Joint with [Eugenio Aulisa](http://www.math.ttu.edu/~eaulisa/).) <br><br><br>
