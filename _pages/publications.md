@@ -65,7 +65,8 @@ Recorded here is a list of publications, current through 6/2022.
 **Proceedings of the XXIst GIQ**, BAS - Varna (2019). </sub>
 
 1. [Here](http://proceedings.mlr.press/v97/bridges19a/bridges19a.pdf){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  [Active Manifolds: A non-linear analogue to Active Subspaces.](http://proceedings.mlr.press/v97/bridges19a.html)  
+<sub> Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  
+[Active Manifolds: A non-linear analogue to Active Subspaces.](http://proceedings.mlr.press/v97/bridges19a.html)  
 **Proceedings of the 36th ICML**, PMLR 97:764-772 (2019). </sub>
 
 ## Others
