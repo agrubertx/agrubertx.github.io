@@ -34,9 +34,9 @@ A short virtual CV, current through 7/2022.  Full CV in PDF version [available h
 
 ## Education
 ---
-* B.G.S. Chemistry/Mathematics/Music Performance, Texas Tech University, 2015.
-* M.S. Mathematics, Texas Tech University, 2017.
 * Ph.D Mathematics (Differential Geometry), Texas Tech University, 2019.
+* M.S. Mathematics, Texas Tech University, 2017.
+* B.G.S. Chemistry/Mathematics/Music Performance, Texas Tech University, 2015.
 
 ## Publications
 ---
