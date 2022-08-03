@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 6/2022.
+Recorded here is a list of publications, current through 7/2022.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
@@ -76,6 +76,11 @@ Recorded here is a list of publications, current through 6/2022.
 PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository. </sub>
 
 ## Submitted Articles
+1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
+*Quasiconformal Mappings with Surface Domains.*  
+(under review). </sub>
+
 1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
 *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  
@@ -90,11 +95,6 @@ PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository. </sub>
 <sub> Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  
 *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.*  
 (under review). </sub>
-
-1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
-*Quasiconformal Mappings with Surface Domains.*  
-(under revision). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
