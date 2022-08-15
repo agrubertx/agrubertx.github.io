@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 7/2022.
+Recorded here is a list of publications, current through 8/2022.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
@@ -76,6 +76,11 @@ Recorded here is a list of publications, current through 7/2022.
 PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository. </sub>
 
 ## Submitted Articles
+1. [Preprint](http://arxiv.org/abs/...#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang.  
+*Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.*  
+(under review). </sub>
+
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 *Quasiconformal Mappings with Surface Domains.*  

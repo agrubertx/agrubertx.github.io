@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-A short virtual CV, current through 7/2022.  Full CV in PDF version [available here.](../files/Gruber_CV.pdf)
+A short virtual CV, current through 8/2022.  Full CV in PDF version [available here.](../files/Gruber_CV.pdf)
 
 {% include base_path %}
 
@@ -61,6 +61,7 @@ A short virtual CV, current through 7/2022.  Full CV in PDF version [available h
 1. <ins>Anthony Gruber</ins>. *Curvature functionals and p-Willmore energy*. PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ### Submitted Articles
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang. *Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.*  (under review).
 1. <ins>Anthony Gruber</ins>, Eugenio Aulisa. *Quasiconformal Mappings with Surface Domains.*  (under review).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.* (under review).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.* (under review).
