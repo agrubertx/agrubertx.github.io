@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-A short virtual CV, current through 8/2022.  Full CV in PDF version [available here.](../files/Gruber_CVcomingsoon.pdf)
+A short virtual CV, current through 8/2022.  Full CV in PDF version [available here.](../files/Gruber_CV.pdf)
 
 {% include base_path %}
 
@@ -41,6 +41,8 @@ A short virtual CV, current through 8/2022.  Full CV in PDF version [available h
 ## Publications
 ---
 ### Journal Articles
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.*  ** Comput. Methods Appl. Mech. Eng.** (to appear).
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (to appear).
 1. <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications.*  **Math. Nachr.** (to appear). 
 1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling.*  **Comput. Methods Appl. Mech. Eng.** (2022).
@@ -61,10 +63,9 @@ A short virtual CV, current through 8/2022.  Full CV in PDF version [available h
 1. <ins>Anthony Gruber</ins>. *Curvature functionals and p-Willmore energy*. PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository.
 
 ### Submitted Articles
+1. <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda. *Instability of p-Elastic Curves in $$S^2$$.* (under review).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang. *Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.*  (under review).
 1. <ins>Anthony Gruber</ins>, Eugenio Aulisa. *Quasiconformal Mappings with Surface Domains.*  (under review).
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.* (under review).
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.* (under review).
 1. Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang. *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.* (under review). 
 1. <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda. *On p-Willmore Disks with Boundary Energies.* (under review).
 
@@ -92,11 +93,11 @@ Service and leadership
 
 ## Invited Talks
 ---
-- Invited talk, SIAM MDS, San Diego, CA. *Graph neural networks for model reduction*, Minisymposium on machine learning for large-scale scientific data analytics, (25 min; Sep. 2022).
-- Invited talk, AMS Fall Central Sectional, UT at El Paso, TX. *Computing quasiconformal mappings between immersed surfaces*, (20 min; Sep. 2022).
+- Invited talk, SIAM MDS, San Diego, CA. *Graph neural networks for model reduction*, Minisymposium on machine learning for large-scale scientific data analytics, (25 min; Sep. 26-30, 2022).
+- Invited talk, AMS Fall Central Sectional, UT at El Paso, TX. *Computing quasiconformal mappings between immersed surfaces*, (20 min; Sep. 17-18, 2022).
 - Colloquium talk, Texas Tech University, Lubbock. *Some nonlinear PDEs in computer graphics and data science*, (50 min; Sep 29, 2021).
 - Invited talk, Cameron University Mathematics Seminar Series, Lawton, OK (virtual).  *Calculus for Computer Graphics and Data Science*, (50 min; Oct. 19, 2021).
-- Invited talk, SIAM Southeastern Atlantic Section, special session on Deep Learning Methods for Data Driven Models, Auburn University, Auburn, AL, Sep. 17-18, 2021.  *Convolutional neural networks for data compression and reduced order modeling*, (30 min; Sep. 18, 2021).
+- Invited talk, SIAM Southeastern Atlantic Section, special session on Deep Learning Methods for Data Driven Models, Auburn University, Auburn, AL.  *Convolutional neural networks for data compression and reduced order modeling*, (30 min; Sep. 18, 2021).
 - Paper presentation, 18th International Conference of Numerical Analysis and Applied Mathematics (virtual), Rhodes, Greece, Sep 17-23, 2020. *Willmore stable minimal surfaces*, (30 min; Sep. 17, 2020).
 - Paper presentation, 18th International Conference of Numerical Analysis and Applied Mathematics (virtual), Rhodes, Greece, Sep 17-23, 2020.  *Quaternionic remeshing during surface evolution*, (30 min; Sep. 17, 2020).
 - Invited talk, AMS special session 1159, Geometry of Submanifolds and Integrable Systems (virtual), University of Texas at El Paso, Sep 12-13, 2020. *Codazzi tensors with parallel mean curvature*, (25 min; Sep. 12, 2020).

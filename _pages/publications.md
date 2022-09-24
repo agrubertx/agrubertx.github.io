@@ -5,9 +5,19 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 8/2022.
+Recorded here is a list of publications, current through 9/2022.
 
 ## Journal Articles
+1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
+*Energetically Consistent Model Reduction for Metriplectic Systems.*  
+**Comput. Methods Appl. Mech. Eng.** (to appear). </sub>
+
+1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
+*A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  
+**J. Sci. Comput.** (to appear). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
 *Parallel Codazzi tensors with submanifold applications*.  
@@ -72,11 +82,16 @@ Recorded here is a list of publications, current through 8/2022.
 ## Others
 1. [Here](https://ttu-ir.tdl.org/handle/2346/85351#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
-*Curvature functionals and p-Willmore energy*.  
-PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository. </sub>
+[Curvature functionals and p-Willmore energy.](https://ttu-ir.tdl.org/handle/2346/85351#)  
+TTU Electronic Thesis and Dissertation Repository (2019). </sub>
 
 ## Submitted Articles
-1. [Preprint](http://arxiv.org/abs/...#){: .btn .btn--info .btn--small}{: .align-right}
+1. [Preprint](https://arxiv.org/abs/...#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
+*Instability of p-Elastic Curves in $$S^2$$.*  
+(under review). </sub>
+
+1. [Preprint](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-797/){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang.  
 *Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.*  
 (under review). </sub>
@@ -84,16 +99,6 @@ PhD Thesis (2019).  TTU Electronic Thesis and Dissertation Repository. </sub>
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 *Quasiconformal Mappings with Surface Domains.*  
-(under review). </sub>
-
-1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
-*A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  
-(under review). </sub>
-
-1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
-*Energetically Consistent Model Reduction for Metriplectic Systems.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2112.01438#){: .btn .btn--info .btn--small}{: .align-right}
