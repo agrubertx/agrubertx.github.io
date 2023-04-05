@@ -118,6 +118,13 @@ TTU Electronic Thesis and Dissertation Repository (2019). </sub>
 ---
 All Arxiv preprints are kept up-to-date with this list.  If you notice any typos/errors (or suspected errors) in the above publications, e-mail notifications are appreciated.
 
+In *Parallel Codazzi Tensors with Submanifold Applications*.
+{% raw %}
+- Appendix, Proof of Lemma 3.1:
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> $$ u^i_j + u^j\omega^i_j $$ </span> $$ \,\,\longrightarrow\,\, $$ <span style="color:green"> $$ du^i + u^j\omega^i_j $$ </span>.
+{% endraw %}
+
 In *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique*.
 {% raw %}
 - Section 2, Paragraph 1:
@@ -126,7 +133,6 @@ In *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique*.
 {% endraw %}
 
 In *On the variation of curvature functionals in a space form with application to a generalized Willmore energy*.
-
 {% raw %}
 - Equation (22), line 2:
 
