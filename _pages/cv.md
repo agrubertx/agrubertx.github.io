@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-A short virtual CV, current through 8/2022.  Full CV in PDF version [available here.](../files/Gruber_CV.pdf)
+A short virtual CV, current through 8/2022.  Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current through 8/2023.
 
 {% include base_path %}
 
@@ -41,7 +41,8 @@ A short virtual CV, current through 8/2022.  Full CV in PDF version [available h
 ## Publications
 ---
 ### Journal Articles
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.*  ** Comput. Methods Appl. Mech. Eng.** (to appear).
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.*  
+**Comput. Methods Appl. Mech. Eng.** (to appear).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (to appear).
 1. <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications.*  **Math. Nachr.** (to appear). 
 1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).

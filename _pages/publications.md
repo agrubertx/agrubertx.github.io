@@ -5,23 +5,48 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 9/2022.
+Recorded here is a list of publications, current through 8/2023.
 
 ## Journal Articles
-1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
-*Energetically Consistent Model Reduction for Metriplectic Systems.*  
-**Comput. Methods Appl. Mech. Eng.** (to appear). </sub>
+1. [Preprint](https://arxiv.org/abs/2304.06262#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
+*Canonical and Noncanonical Hamiltonian Operator Inference.*  
+**Comput. Methods Appl. Mech. Eng.** (to appear) </sub>
 
-1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
-*A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  
-**J. Sci. Comput.** (to appear). </sub>
+1. [Preprint](https://arxiv.org/abs/2209.11597#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
+*Instability of Closed p-Elastic Curves in $$S^2$$.*  
+**Anal. Appl.** (to appear) </sub>
+
+1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
+[On p-Willmore Disks with Boundary Energies.](https://doi.org/10.1016/j.difgeo.2022.101971)  
+**Differ. Geom. Appl.** (2023) </sub>
 
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
-*Parallel Codazzi tensors with submanifold applications*.  
-**Math. Nachr.** (to appear). </sub>
+[Parallel Codazzi tensors with submanifold applications.](https://doi.org/10.1002/mana.202100060)  
+**Math. Nachr.** (2023) </sub>
+
+1. [Preprint](https://arxiv.org/abs/2112.01438#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  
+[Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.](https://doi.org/10.1137/21M1459198)  
+**SIAM J. Sci. Comput.** (2023) </sub>
+
+1. [Preprint](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-797/){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang.  
+[Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.](https://doi.org/10.5194/gmd-16-1213-2023)  
+**Geosci. Model Dev.** (2023) </sub>
+
+1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
+[Energetically Consistent Model Reduction for Metriplectic Systems.](https://www.sciencedirect.com/science/article/abs/pii/S0045782522006648)  
+**Comput. Methods Appl. Mech. Eng.** (2022) </sub>
+
+1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
+[A Multifidelity Monte Carlo Method for Realistic Computational Budgets.](https://link.springer.com/article/10.1007/s10915-022-02051-y)  
+**J. Sci. Comput.** (2022) </sub>
 
 1. [Preprint](https://arxiv.org/abs/1912.07103#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  
@@ -36,7 +61,7 @@ Recorded here is a list of publications, current through 9/2022.
 1. [Preprint](https://arxiv.org/abs/2107.13707#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
 [Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique.](https://doi.org/10.1017/S0004972721000812)  
-**Bull. Aust. Math. Soc.** 1-6 (2021). </sub>
+**Bull. Aust. Math. Soc.** (2021). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2104.14072#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Yuankai Teng, Zhu Wang.  
@@ -51,12 +76,12 @@ Recorded here is a list of publications, current through 9/2022.
 1. [Here](https://dl.acm.org/doi/10.1145/3369387?cid=99659571076){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 [Computational p-Willmore Flow with Conformal Penalty.](https://doi.org/10.1145/3369387)  
-**ACM Trans. Graph.** 39, 5, Article 161 (September 2020), 16 pages. </sub>
+**ACM Trans. Graph.** (2020) </sub>
 
 1. [Preprint](https://arxiv.org/abs/1905.01759#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  
 [On the variation of curvature functionals in a space form with application to a generalized Willmore energy.](https://doi.org/10.1007/s10455-019-09661-0)  
-**Ann. Glob. Anal. Geom.** (2019) 56: 147. </sub>
+**Ann. Glob. Anal. Geom.** (2019) </sub>
 
 ## Articles in Refereed Conference Proceedings
 1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
@@ -86,31 +111,15 @@ Recorded here is a list of publications, current through 9/2022.
 TTU Electronic Thesis and Dissertation Repository (2019). </sub>
 
 ## Submitted Articles
-1. [Preprint](https://arxiv.org/abs/...#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
-*Instability of p-Elastic Curves in $$S^2$$.*  
-(under review). </sub>
-
-1. [Preprint](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-797/){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang.  
-*Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.*  
+1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nat Trask.  
+*Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.*  
 (under review). </sub>
 
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 *Quasiconformal Mappings with Surface Domains.*  
 (under review). </sub>
-
-1. [Preprint](https://arxiv.org/abs/2112.01438#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  
-*Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.*  
-(under review). </sub>
-
-1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
-*On p-Willmore Disks with Boundary Energies.*  
-(under review). </sub>
-
 
 
 &nbsp;
