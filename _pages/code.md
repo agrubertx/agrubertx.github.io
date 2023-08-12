@@ -5,6 +5,8 @@ author_profile: true
 excerpt: "Code"
 ---
 
+Some code repositories, current through 4/2022.
+
 1. [Multifidelity-Monte-Carlo](https://github.com/agrubertx/Multifidelity-Monte-Carlo){: .btn .btn--info .btn--small}{: .align-right}  A Python implementation of multifidelity Monte Carlo estimation, with experiments reproducing the results of the relevant papers.
 
 1. [Metriplectic-POD-ROM](https://github.com/agrubertx/metriplectic_POD-ROM){: .btn .btn--info .btn--small}{: .align-right}  An example-focused Jupyter notebook implementation of our metriplectic POD-ROM algorithm.

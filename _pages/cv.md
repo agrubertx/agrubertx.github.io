@@ -6,9 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-A short virtual CV, current through 8/2022.  Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current through 8/2023.
+A short virtual CV, current through 8/2023.  Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current through 8/2023.
 
 {% include base_path %}
+
+## Education
+---
+* Ph.D Mathematics (Differential Geometry), Texas Tech University, 2019.
+* M.S. Mathematics, Texas Tech University, 2017.
+* B.G.S. Chemistry/Mathematics/Music Performance, Texas Tech University, 2015.
 
 ## Professional experience
 ---
@@ -32,20 +38,15 @@ A short virtual CV, current through 8/2022.  Full CV in PDF version [available h
 * *(May 2014 - August 2014)* &nbsp; University of Texas at Dallas.
   * **NSF REU Intern**, Richardson, TX.
 
-## Education
----
-* Ph.D Mathematics (Differential Geometry), Texas Tech University, 2019.
-* M.S. Mathematics, Texas Tech University, 2017.
-* B.G.S. Chemistry/Mathematics/Music Performance, Texas Tech University, 2015.
-
-## Publications
+## Selected Publications
 ---
 ### Journal Articles
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.*  
-**Comput. Methods Appl. Mech. Eng.** (to appear).
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (to appear).
-1. <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications.*  **Math. Nachr.** (to appear). 
-1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).
+1. <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications.*  **Math. Nachr.** (2023)
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.* **Comput. Methods Appl. Mech. Eng.** (2022)
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (2022)
+1. <ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Computational p-Willmore Flow with Conformal Penalty.* **ACM Trans. Graph.** (2020)
+
+<!-- 1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling.*  **Comput. Methods Appl. Mech. Eng.** (2022).
 1. <ins>Anthony Gruber</ins>.  *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique.* **Bull. Aust. Math. Soc.** 1-6 (2021).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Yuankai Teng, Zhu Wang.  *Nonlinear Level Set Learning for Function Approximation on Sparse Data with Applications to Parametric Differential Equations.*  **Numer. Math. Theory Methods Appl.** (2021).
@@ -68,7 +69,7 @@ A short virtual CV, current through 8/2022.  Full CV in PDF version [available h
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang. *Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.*  (under review).
 1. <ins>Anthony Gruber</ins>, Eugenio Aulisa. *Quasiconformal Mappings with Surface Domains.*  (under review).
 1. Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang. *Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.* (under review). 
-1. <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda. *On p-Willmore Disks with Boundary Energies.* (under review).
+1. <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda. *On p-Willmore Disks with Boundary Energies.* (under review). -->
 
 <!-- Publications
 ======
@@ -92,7 +93,7 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-## Invited Talks
+<!-- ## Invited Talks
 ---
 - Invited talk, SIAM MDS, San Diego, CA. *Graph neural networks for model reduction*, Minisymposium on machine learning for large-scale scientific data analytics, (25 min; Sep. 26-30, 2022).
 - Invited talk, AMS Fall Central Sectional, UT at El Paso, TX. *Computing quasiconformal mappings between immersed surfaces*, (20 min; Sep. 17-18, 2022).
@@ -115,4 +116,4 @@ Service and leadership
 - Calculus III with Applications (TTU Math 2450)
 - Calculus II with Applications (TTU Math 1452)
 - College Algebra (TTU Math 1320) 
-- Intro. to Data Analytics (10-hour short course self-developed for TTUCR)
+- Intro. to Data Analytics (10-hour short course self-developed for TTUCR) -->
