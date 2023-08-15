@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-A short virtual CV, current through 8/2023.  Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current through 8/2023.
+Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current through 8/2023.
 
 {% include base_path %}
 
