@@ -5,18 +5,18 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 8/2023.
+Recorded here is a list of publications, current through 9/2023.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2304.06262#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
-*Canonical and Noncanonical Hamiltonian Operator Inference.*  
-**Comput. Methods Appl. Mech. Eng.** (to appear) </sub>
+[Canonical and Noncanonical Hamiltonian Operator Inference.](https://doi.org/10.1016/j.cma.2023.116334)  
+**Comput. Methods Appl. Mech. Eng.** (2023) </sub>
 
 1. [Preprint](https://arxiv.org/abs/2209.11597#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
-*Instability of Closed p-Elastic Curves in $$S^2$$.*  
-**Anal. Appl.** (to appear) </sub>
+[Instability of Closed p-Elastic Curves in $$S^2$$](https://doi.org/10.1142/S0219530523500173)  
+**Anal. Appl.** (2023) </sub>
 
 1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
@@ -33,7 +33,7 @@ Recorded here is a list of publications, current through 8/2023.
 [Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.](https://doi.org/10.1137/21M1459198)  
 **SIAM J. Sci. Comput.** (2023) </sub>
 
-1. [Preprint](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-797/){: .btn .btn--info .btn--small}{: .align-right}
+1. [Here](https://gmd.copernicus.org/articles/16/1213/2023/){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang.  
 [Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.](https://doi.org/10.5194/gmd-16-1213-2023)  
 **Geosci. Model Dev.** (2023) </sub>
@@ -84,6 +84,11 @@ Recorded here is a list of publications, current through 8/2023.
 **Ann. Glob. Anal. Geom.** (2019) </sub>
 
 ## Articles in Refereed Conference Proceedings
+1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  
+*Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.*  
+**NeurIPS 2023** (to appear). </sub>
+
 1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 [Quaternionic Remeshing During Surface Evolution.](https://doi.org/10.1063/5.0081306)  
@@ -111,11 +116,6 @@ Recorded here is a list of publications, current through 8/2023.
 TTU Electronic Thesis and Dissertation Repository (2019). </sub>
 
 ## Submitted Articles
-1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nat Trask.  
-*Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.*  
-(under review). </sub>
-
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 *Quasiconformal Mappings with Surface Domains.*  
@@ -125,14 +125,21 @@ TTU Electronic Thesis and Dissertation Repository (2019). </sub>
 &nbsp;
 # Corrigenda to Published Works
 ---
-All Arxiv preprints are kept up-to-date with this list.  If you notice any typos/errors (or suspected errors) in the above publications, e-mail notifications are appreciated.
+All Arxiv preprints are (eventually...) kept up-to-date with this list.  If you notice any typos or suspected errors in the above publications, e-mail notifications are appreciated.
 
-In *Parallel Codazzi Tensors with Submanifold Applications*.
+In *Canonical and Noncanonical Hamiltonian Operator Inference*.
+{% raw %}
+- Section 3, Equation (5):
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> $$ \hat{\mathbf{J}}\hat{\mathbf{A}}\hat{\mathbf{X}} + \hat{\nabla}f(\hat{\mathbf{X}}) $$ </span> $$ \,\,\longrightarrow\,\, $$ <span style="color:green"> $$ \hat{\mathbf{J}}\left(\hat{\mathbf{A}}\hat{\mathbf{X}} + \hat{\nabla}f(\hat{\mathbf{X}})\right) $$ </span>.
+{% endraw %}
+
+<!-- In *Parallel Codazzi Tensors with Submanifold Applications*.
 {% raw %}
 - Appendix, Proof of Lemma 3.1:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> $$ u^i_j + u^j\omega^i_j $$ </span> $$ \,\,\longrightarrow\,\, $$ <span style="color:green"> $$ du^i + u^j\omega^i_j $$ </span>.
-{% endraw %}
+{% endraw %} -->
 
 In *Planar Immersions with Prescribed Curl and Jacobian Determinant are Unique*.
 {% raw %}
