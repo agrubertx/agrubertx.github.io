@@ -43,8 +43,12 @@ Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current th
 ### Journal Articles
 1. <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications.*  **Math. Nachr.** (2023)
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.* **Comput. Methods Appl. Mech. Eng.** (2022)
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (2022)
+<!-- 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (2022) -->
 1. <ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Computational p-Willmore Flow with Conformal Penalty.* **ACM Trans. Graph.** (2020)
+
+### Conference Proceedings
+1. <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  *Reversible and irreversible bracket-based dynamics for deep graph neural networks.*  **NeurIPS** (2023).
+1. Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  *Active Manifolds: A non-linear analogue to Active Subspaces.*  **ICML** (2019).
 
 <!-- 1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling.*  **Comput. Methods Appl. Mech. Eng.** (2022).

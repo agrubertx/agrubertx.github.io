@@ -87,7 +87,7 @@ Recorded here is a list of publications, current through 9/2023.
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  
 *Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.*  
-**NeurIPS 2023**. </sub>
+**Proceedings of the 17th NeurIPS (2023)**. </sub>
 
 1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
