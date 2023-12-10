@@ -7,7 +7,7 @@ excerpt: "Code"
 
 Some code repositories, current through 8/2023.
 
-1. [Bracket-based GNNs](https://agrubertx.github.io/code) A Python implementation of our NODE-style structure-preserving bracket-based graph neural networks.  (COMING SOON)
+1. [Bracket-based GNNs](https://github.com/natrask/BracketGraphs){: .btn .btn--info .btn--small}{: .align-right} A Python implementation of our NODE-style structure-preserving bracket-based graph neural networks.
 
 1. [Hamiltonian-OpInf](https://github.com/ikalash/hamiltonianopinf){: .btn .btn--info .btn--small}{: .align-right}  A 
 Python implementation of Hamiltonian operator inference, with experiments reproducing the results of our paper.
