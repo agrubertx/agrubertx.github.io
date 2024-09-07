@@ -5,48 +5,53 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 9/2023.
+Recorded here is a list of publications, current through 8/2024.
 
 ## Journal Articles
+1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
+*Variationally Consistent Hamiltonian Model Reduction.*  
+**SIAM J. Appl. Dyn. Sys.** (2024). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2304.06262#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
 [Canonical and Noncanonical Hamiltonian Operator Inference.](https://doi.org/10.1016/j.cma.2023.116334)  
-**Comput. Methods Appl. Mech. Eng.** (2023) </sub>
+**Comput. Methods Appl. Mech. Eng.** (2023). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2209.11597#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
-[Instability of Closed p-Elastic Curves in $$S^2$$](https://doi.org/10.1142/S0219530523500173)  
-**Anal. Appl.** (2023) </sub>
+[Instability of Closed p-Elastic Curves in $$S^2$$.](https://doi.org/10.1142/S0219530523500173)  
+**Anal. Appl.** (2023). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2110.14778#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Álvaro Pámpano, Magdalena Toda.  
 [On p-Willmore Disks with Boundary Energies.](https://doi.org/10.1016/j.difgeo.2022.101971)  
-**Differ. Geom. Appl.** (2023) </sub>
+**Differ. Geom. Appl.** (2023). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2004.03103#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
 [Parallel Codazzi tensors with submanifold applications.](https://doi.org/10.1002/mana.202100060)  
-**Math. Nachr.** (2023) </sub>
+**Math. Nachr.** (2023). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2112.01438#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Yuankai Teng, Zhu Wang, Lili Ju, <ins>Anthony Gruber</ins>, Guannan Zhang.  
 [Learning Level Sets with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation.](https://doi.org/10.1137/21M1459198)  
-**SIAM J. Sci. Comput.** (2023) </sub>
+**SIAM J. Sci. Comput.** (2023). </sub>
 
 1. [Here](https://gmd.copernicus.org/articles/16/1213/2023/){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Rihui Lan, Zhu Wang.  
 [Multifidelity Monte Carlo Estimation for Efficient Uncertainty Quantification in Climate-Related Modeling.](https://doi.org/10.5194/gmd-16-1213-2023)  
-**Geosci. Model Dev.** (2023) </sub>
+**Geosci. Model Dev.** (2023). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2204.08049#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
 [Energetically Consistent Model Reduction for Metriplectic Systems.](https://www.sciencedirect.com/science/article/abs/pii/S0045782522006648)  
-**Comput. Methods Appl. Mech. Eng.** (2022) </sub>
+**Comput. Methods Appl. Mech. Eng.** (2022). </sub>
 
 1. [Preprint](http://arxiv.org/abs/2206.07572#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  
 [A Multifidelity Monte Carlo Method for Realistic Computational Budgets.](https://link.springer.com/article/10.1007/s10915-022-02051-y)  
-**J. Sci. Comput.** (2022) </sub>
+**J. Sci. Comput.** (2022). </sub>
 
 1. [Preprint](https://arxiv.org/abs/1912.07103#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  
@@ -84,10 +89,15 @@ Recorded here is a list of publications, current through 9/2023.
 **Ann. Glob. Anal. Geom.** (2019) </sub>
 
 ## Articles in Refereed Conference Proceedings
+1. [Preprint](https://arxiv.org/abs/2405.16305#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  
+*Efficiently Parameterized Neural Metriplectic Systems*  
+**Proceedings of the 18th NeurIPS** (2024). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  
-*Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.*  
-**Proceedings of the 17th NeurIPS (2023)**. </sub>
+[Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.](https://openreview.net/forum?id=4SoTUaTK8N)  
+**Proceedings of the 17th NeurIPS** (2023). </sub>
 
 1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
@@ -110,10 +120,20 @@ Recorded here is a list of publications, current through 9/2023.
 **Proceedings of the 36th ICML**, PMLR 97:764-772 (2019). </sub>
 
 ## Others
+1. [Here](to_be_included#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
+*Tensor Parametric Hamiltonian Operator Inference.*  
+**CSRI Summer Proceedings** (2024). </sub>
+
+1. [Here](https://arxiv.org/abs/2409.01433#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Ian R. Moore, Christopher Wentland, <ins>Anthony Gruber</ins>, Irina Tezaur.  
+*Domain decomposition-based coupling of Operator Inference Reduced Order Models via the Schwarz alternating method.*  
+**CSRI Summer Proceedings** (2024). </sub>
+
 1. [Here](https://ttu-ir.tdl.org/handle/2346/85351#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
 [Curvature functionals and p-Willmore energy.](https://ttu-ir.tdl.org/handle/2346/85351#)  
-TTU Electronic Thesis and Dissertation Repository (2019). </sub>
+**TTU Electronic Thesis and Dissertation Repository** (2019). </sub>
 
 ## Submitted Articles
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
