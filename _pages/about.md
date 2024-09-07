@@ -14,9 +14,9 @@ redirect_from:
 
 <!-- ![image-left](/images/me_over_gorge.JPG){: width="280" } ![image-left](/images/me_w_sunglasses.JPG){: width="160" } ![image-left](/images/me.png){: width="320" } -->
 
-![image-left](/images/me_over_gorge.JPG){: width="280" } ![image-left](/images/me_in_Florence.pdf){: width="140" } ![image-left](/images/me.png){: width="320" }
+<!-- ![image-left](/images/me_over_gorge.JPG){: width="280" } ![image-left](/images/me_in_Florence.pdf){: width="140" } ![image-left](/images/me.png){: width="320" } -->
 
-<!-- ![image-left](/images/me.png){: width="300" } ![image-left](/images/me_w_sunglasses.jpg){: width="200" } ![image-right](/files/gifs/knotFandB.gif){: width="200" } -->
+![image-left](/images/me_over_gorge.JPG){: width="360" } ![image-left](/images/me_in_Florence.pdf){: width="182" } ![image-left](/images/me_w_sunglasses.JPG){: width="203" }
 
 I am a mathematician interested in basic and applied research questions that arise in the contexts of data science, nonlinear partial differential equations (PDEs), and scientific machine learning.
 <!-- {: .notice--success} -->

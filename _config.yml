@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Anthony Gruber"
 title_separator          : "-"
 name                     : &name "Anthony Gruber"
-description              : &description "John von Neumann Fellow, Sandia National Laboratories"
+description              : &description "Senior Member of Technical Staff"
 url                      : https://agrubertx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agrubertx/agrubertx.github.io"
@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Dr. Anthony Gruber"
   avatar           : "profile2023-2.jpg"
-  bio              : "John von Neumann Fellow, Sandia National Laboratories"
+  bio              : "Senior Member of Technical Staff"
   location         : "Albuquerque, NM"
-  employer         :
+  employer         : "Sandia National Laboratories"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CJVuqfoAAAAJ&hl=en"
   email            :
