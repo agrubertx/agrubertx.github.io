@@ -97,13 +97,13 @@ Recorded here is a list of publications, current through 1/2025.
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Eugenio Aulisa, <ins>Anthony Gruber</ins>, Magdalena Toda.  
 [Generalized Willmore Energies and Applications.](https://doi.org/10.7546/giq-29-2024-1-10)  
-**Geometry, Integrability and Quantization, vol. 29** (2024). </sub>
+**Geometry, Integrability and Quantization**, vol. 29 (2024). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Mingu Kang, Dongseok Lee, Woojin Cho, Jaehyeon Park, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
 [Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy
 data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)  
-**NeurIPS 2024 Workshop on Foundation Models for Science: Progress, Opportunities,
+**NeurIPS Workshop on Foundation Models for Science: Progress, Opportunities,
 and Challenges** (2024). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
@@ -124,7 +124,7 @@ and Challenges** (2024). </sub>
 1. [Preprint](/files/preprints/PWillmoreGIQ.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Eugenio Aulisa, <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  
 [New Developments on the p-Willmore Energy of Surfaces.](https://doi.org/10.7546/giq-21-2020-57-65)  
-**Proceedings of the XXIst GIQ**, BAS - Varna (2019). </sub>
+**Geometry, Integrability, and Quantization**, vol. 21 (2019). </sub>
 
 1. [Here](http://proceedings.mlr.press/v97/bridges19a/bridges19a.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  
@@ -134,17 +134,17 @@ and Challenges** (2024). </sub>
 ## Others
 1. [Here](https://www.osti.gov/servlets/purl/2462988){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
-*Learning Operators for Structure-Informed Surrogate Models*    
+[Learning Operators for Structure-Informed Surrogate Models.](https://www.osti.gov/servlets/purl/2462988)  
 **tech. rep., Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)** (2024). </sub>
 
 1. [Here](https://www.sandia.gov/app/uploads/sites/210/2024/12/CSRI-2024-proceedings_Final.pdf#page=180){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
-*Tensor Parametric Hamiltonian Operator Inference.*  
+[Tensor Parametric Hamiltonian Operator Inference.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2024/)  
 **CSRI Summer Proceedings** (2024). </sub>
 
 1. [Here](https://arxiv.org/abs/2409.01433#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Ian R. Moore, Christopher Wentland, <ins>Anthony Gruber</ins>, Irina Tezaur.  
-*Domain decomposition-based coupling of Operator Inference Reduced Order Models via the Schwarz alternating method.*  
+[Domain decomposition-based coupling of Operator Inference Reduced Order Models via the Schwarz alternating method.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2024/)   
 **CSRI Summer Proceedings** (2024). </sub>
 
 1. [Here](https://ttu-ir.tdl.org/handle/2346/85351#){: .btn .btn--info .btn--small}{: .align-right}
