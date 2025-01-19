@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current through 8/2023.
+Full CV in PDF version [available here](../files/Gruber_CV_2024.pdf), current through 1/2025.
 
 {% include base_path %}
 
@@ -18,7 +18,10 @@ Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current th
 
 ## Professional experience
 ---
-- *(August 2022 - Present)* &nbsp; Sandia National Laboratories.
+* *(September 2024 - present)* &nbsp; Sandia National Laboratories.
+  * **Senior Member of Technical Staff**, Albuquerque, NM.
+
+* *(August 2022 - September 2024)* &nbsp; Sandia National Laboratories.
   * **John von Neumann Fellow**, Albuquerque, NM.
 
 * *(January 2021 - August 2022)* &nbsp; Florida State University.
@@ -41,14 +44,15 @@ Full CV in PDF version [available here](../files/Gruber_CV_2023.pdf), current th
 ## Selected Publications
 ---
 ### Journal Articles
-1. <ins>Anthony Gruber</ins>.  *Parallel Codazzi tensors with submanifold applications.*  **Math. Nachr.** (2023)
-1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *Energetically Consistent Model Reduction for Metriplectic Systems.* **Comput. Methods Appl. Mech. Eng.** (2022)
+1. <ins>Anthony Gruber</ins>, Irina Tezaur.  *Variationally Consistent Hamiltonian Model Reduction.*  **SIAM J. Appl. Dyn. Sys.** (2024)
+1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *Energetically Consistent Model Reduction for Metriplectic Systems.*  **Comput. Methods Appl. Mech. Eng.** (2022)
 <!-- 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang. *A Multifidelity Monte Carlo Method for Realistic Computational Budgets.*  **J. Sci. Comput.** (2022) -->
-1. <ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Computational p-Willmore Flow with Conformal Penalty.* **ACM Trans. Graph.** (2020)
+1. <ins>Anthony Gruber</ins>, Eugenio Aulisa.  *Computational p-Willmore Flow with Conformal Penalty.*  **ACM Trans. Graph.** (2020)
 
 ### Conference Proceedings
-1. <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  *Reversible and irreversible bracket-based dynamics for deep graph neural networks.*  **NeurIPS** (2023).
-1. Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  *Active Manifolds: A non-linear analogue to Active Subspaces.*  **ICML** (2019).
+1. <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  *Efficiently Parameterized Neural Metriplectic Systems.*  **ICLR** (2025)  
+1. <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  *Reversible and irreversible bracket-based dynamics for deep graph neural networks.*  **NeurIPS** (2023)  
+1. Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  *Active Manifolds: A non-linear analogue to Active Subspaces.*  **ICML** (2019)
 
 <!-- 1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).
 1. <ins>Anthony Gruber</ins>, Max Gunzburger, Lili Ju, Zhu Wang.  *A Comparison of Neural Network Architectures for Data-Driven Reduced-Order Modeling.*  **Comput. Methods Appl. Mech. Eng.** (2022).
