@@ -21,7 +21,7 @@ redirect_from:
 I am a mathematician interested in basic and applied research questions that arise in the contexts of data science, nonlinear partial differential equations (PDEs), and scientific machine learning.
 <!-- {: .notice--success} -->
 
-Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying or reasoning about some abstract mathematical structure which is important for a particular phenomenon, formulating a smart discretization (based on e.g. a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements a proposed approach.  Over time, I've found that my preferred flavor of research problem leaves ample opportunity for geometric ideas, satisfying visuals, and punchy algebraic arguments which are characteristic of my personal style.
+Lately, my focus is primarily on developing structure-informed numerical methods for scientific applications.  Doing this generally involves identifying or reasoning about some abstract mathematical structure which is important for a particular physical phenomenon, formulating a smart discretization (based on, e.g., a finite element or artificial neural network backbone) which takes this structure into account, and writing mathematical software in Python or C++ which implements a proposed approach.  Over time, I've found that my preferred flavor of research problem leaves ample opportunity for geometric ideas, satisfying visuals, and punchy algebraic arguments which are characteristic of my personal style.
 
 <details markdown="1"><summary><b>More about me</b></summary>
 {: .notice--info}
@@ -45,7 +45,7 @@ Broad research keywords which tend to interest me include: scientific machine le
 ![image-right](/files/gifs/knotFandB.gif){: .align-right}{: width="200" } <br><br> Below are some coarse categories containing (some of) my work. Some have their own page for further reading.  (This part of the website is a work-in-progress.) <br><br>
 
 
-Structure-Informed Function Approximation and Model Reduction
+Structure-Informed Model Reduction and Function Approximation
 -----
 <img src="/images/GCNN_recon2.png" style="max-height: 275px; max-width: 325px; margin-right: 16px" align=left>  Due to their high computational cost, scientific studies based on large-scale simulation frequently operate at a data deficit which creates problems inverse to the issues with "big data".  Particularly, there is a need for efficient function approximation and model reduction strategies which can serve as cheap and reliable surrogates for the high-fidelity models used in practical applications.  These projects develop such technology using invariances and other structural considerations as a starting point, allowing for informed surrogates with beneficial behavior.
 

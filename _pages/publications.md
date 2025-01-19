@@ -92,7 +92,12 @@ Recorded here is a list of publications, current through 8/2024.
 1. [Preprint](https://arxiv.org/abs/2405.16305#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  
 *Efficiently Parameterized Neural Metriplectic Systems*  
-**Proceedings of the 18th NeurIPS** (2024). </sub>
+**Proceedings of the 13th ICML** (2025). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Eugenio Aulisa, <ins>Anthony Gruber</ins>, Magdalena Toda.  
+[Generalized Willmore Energies and Applications.](https://doi.org/10.7546/giq-29-2024-1-10)  
+**Geometry, Integrability and Quantization, vol. 29** (2024). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  
@@ -120,7 +125,12 @@ Recorded here is a list of publications, current through 8/2024.
 **Proceedings of the 36th ICML**, PMLR 97:764-772 (2019). </sub>
 
 ## Others
-1. [Here](to_be_included#){: .btn .btn--info .btn--small}{: .align-right}
+1. [Here](https://www.osti.gov/servlets/purl/2462988){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>.  
+*Learning Operators for Structure-Informed Surrogate Models*    
+**tech. rep., Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)** (2024). </sub>
+
+1. [Here](https://www.sandia.gov/app/uploads/sites/210/2024/12/CSRI-2024-proceedings_Final.pdf#page=180){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
 *Tensor Parametric Hamiltonian Operator Inference.*  
 **CSRI Summer Proceedings** (2024). </sub>
@@ -136,6 +146,16 @@ Recorded here is a list of publications, current through 8/2024.
 **TTU Electronic Thesis and Dissertation Repository** (2019). </sub>
 
 ## Submitted Articles
+1. [Preprint](https://arxiv.org/abs/2501.06686#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Sanghyun Hong, Fan Wu, <ins>Anthony Gruber</ins>, Kookjin Lee.  
+*Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations.*  
+(under review). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2410.06219#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Jonas A. Actor, <ins>Anthony Gruber</ins>, Eric C. Cyr, Nathaniel Trask.  
+*Gaussian Variational Schemes on Bounded and Unbounded Domains.*  
+(under review). </sub>
+
 1. [Preprint](/files/preprints/QC_paper.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
 *Quasiconformal Mappings with Surface Domains.*  
