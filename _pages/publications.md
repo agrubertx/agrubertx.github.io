@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 8/2024.
+Recorded here is a list of publications, current through 1/2025.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
@@ -100,6 +100,13 @@ Recorded here is a list of publications, current through 8/2024.
 **Geometry, Integrability and Quantization, vol. 29** (2024). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Mingu Kang, Dongseok Lee, Woojin Cho, Jaehyeon Park, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
+[Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy
+data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)  
+**NeurIPS 2024 Workshop on Foundation Models for Science: Progress, Opportunities,
+and Challenges** (2024). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  
 [Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.](https://openreview.net/forum?id=4SoTUaTK8N)  
 **Proceedings of the 17th NeurIPS** (2023). </sub>
@@ -149,6 +156,12 @@ Recorded here is a list of publications, current through 8/2024.
 1. [Preprint](https://arxiv.org/abs/2501.06686#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Sanghyun Hong, Fan Wu, <ins>Anthony Gruber</ins>, Kookjin Lee.  
 *Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations.*  
+(under review). </sub>
+
+1. [Preprint](https://arxiv.org/pdf/2410.06442#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Mingu Kang, Dongseok Lee, Woojin Cho, Jaehyeon Park, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
+*MaD-Scientist: AI-based scientist solving convection-diffusion-reaction equations using massive PINN-based
+prior data.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2410.06219#){: .btn .btn--info .btn--small}{: .align-right}
