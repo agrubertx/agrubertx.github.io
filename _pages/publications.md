@@ -92,24 +92,23 @@ Recorded here is a list of publications, current through 1/2025.
 1. [Preprint](https://arxiv.org/abs/2405.16305#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  
 *Efficiently Parameterized Neural Metriplectic Systems*  
-**Proceedings of the 13th ICML** (2025). </sub>
+**13th ICLR Proceedings** (2025). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Eugenio Aulisa, <ins>Anthony Gruber</ins>, Magdalena Toda.  
 [Generalized Willmore Energies and Applications.](https://doi.org/10.7546/giq-29-2024-1-10)  
-**Geometry, Integrability and Quantization**, vol. 29 (2024). </sub>
+**Geom. Integr. Quantization**, vol. 29 (2024). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Mingu Kang, Dongseok Lee, Woojin Cho, Jaehyeon Park, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
 [Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy
 data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)  
-**NeurIPS Workshop on Foundation Models for Science: Progress, Opportunities,
-and Challenges** (2024). </sub>
+**NeurIPS FM4Science Workshop** (2024). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  
 [Reversible and Irreversible Bracket-Based Dynamics for Deep Graph Neural Networks.](https://openreview.net/forum?id=4SoTUaTK8N)  
-**Proceedings of the 17th NeurIPS** (2023). </sub>
+**17th NeurIPS Proceedings** (2023). </sub>
 
 1. [Preprint](/files/preprints/QRDSE.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Eugenio Aulisa.  
@@ -124,12 +123,12 @@ and Challenges** (2024). </sub>
 1. [Preprint](/files/preprints/PWillmoreGIQ.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Eugenio Aulisa, <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  
 [New Developments on the p-Willmore Energy of Surfaces.](https://doi.org/10.7546/giq-21-2020-57-65)  
-**Geometry, Integrability, and Quantization**, vol. 21 (2019). </sub>
+**Geom. Integr. Quantization**, vol. 21 (2019). </sub>
 
 1. [Here](http://proceedings.mlr.press/v97/bridges19a/bridges19a.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  
 [Active Manifolds: A non-linear analogue to Active Subspaces.](http://proceedings.mlr.press/v97/bridges19a.html)  
-**Proceedings of the 36th ICML**, PMLR 97:764-772 (2019). </sub>
+**36th ICML Proceedings**, PMLR 97:764-772 (2019). </sub>
 
 ## Others
 1. [Here](https://www.osti.gov/servlets/purl/2462988){: .btn .btn--info .btn--small}{: .align-right}
