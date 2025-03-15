@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 1/2025.
+Recorded here is a list of publications, current through 3/2025.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
