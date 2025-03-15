@@ -138,7 +138,7 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 
 1. [Here](https://www.sandia.gov/app/uploads/sites/210/2024/12/CSRI-2024-proceedings_Final.pdf#page=180){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
-[Tensor Parametric Hamiltonian Operator Inference.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2024/)  
+[Tensor Parametric Operator Inference with Hamiltonian Structure.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2024/)  
 **CSRI Summer Proceedings** (2024). </sub>
 
 1. [Here](https://arxiv.org/abs/2409.01433#){: .btn .btn--info .btn--small}{: .align-right}
