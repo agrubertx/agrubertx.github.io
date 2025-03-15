@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Full CV in PDF version [available here](../files/Gruber_CV_2024.pdf), current through 1/2025.
+Full CV in PDF version [available here](../files/Gruber_CV.pdf), current through 3/2025.
 
 {% include base_path %}
 
@@ -51,7 +51,7 @@ Full CV in PDF version [available here](../files/Gruber_CV_2024.pdf), current th
 
 ### Conference Proceedings
 1. <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  *Efficiently Parameterized Neural Metriplectic Systems.*  **ICLR** (2025)  
-1. <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  *Reversible and irreversible bracket-based dynamics for deep graph neural networks.*  **NeurIPS** (2023)  
+1. <ins>Anthony Gruber</ins>, Kookjin Lee, Nathaniel Trask.  *Reversible and irreversible bracket-based dynamics for deep graph neural networks.* **NeurIPS** (2023)  
 1. Robert A. Bridges, <ins>Anthony D. Gruber</ins>, Christopher Felder, Miki Verma, Chelsey Hoff.  *Active Manifolds: A non-linear analogue to Active Subspaces.*  **ICML** (2019)
 
 <!-- 1. <ins>Anthony Gruber</ins>, Magdalena Toda, Hung Tran.  *Stationary surfaces with boundaries.*  **Ann. Glob. Anal. Geom.** (2022).

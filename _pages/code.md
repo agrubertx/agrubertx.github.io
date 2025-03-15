@@ -10,7 +10,7 @@ Some code repositories, current through 8/2023.
 1. [Bracket-based GNNs](https://github.com/natrask/BracketGraphs){: .btn .btn--info .btn--small}{: .align-right} A Python implementation of our NODE-style structure-preserving bracket-based graph neural networks.
 
 1. [Hamiltonian-OpInf](https://github.com/ikalash/hamiltonianopinf){: .btn .btn--info .btn--small}{: .align-right}  A 
-Python implementation of Hamiltonian operator inference, with experiments reproducing the results of our paper.
+Python implementation of Hamiltonian operator inference, with experiments reproducing the results of some papers.
 
 1. [Multifidelity-Monte-Carlo](https://github.com/agrubertx/Multifidelity-Monte-Carlo){: .btn .btn--info .btn--small}{: .align-right}  A Python implementation of multifidelity Monte Carlo estimation, with experiments reproducing the results of the relevant papers.
 

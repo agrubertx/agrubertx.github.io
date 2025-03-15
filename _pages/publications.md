@@ -10,8 +10,8 @@ Recorded here is a list of publications, current through 1/2025.
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
-*Variationally Consistent Hamiltonian Model Reduction.*  
-**SIAM J. Appl. Dyn. Sys.** (2024). </sub>
+[Variationally Consistent Hamiltonian Model Reduction.](https://epubs.siam.org/doi/full/10.1137/24M1652490)  
+**SIAM J. Appl. Dyn. Sys.** (2025). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2304.06262#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
@@ -91,7 +91,7 @@ Recorded here is a list of publications, current through 1/2025.
 ## Articles in Refereed Conference Proceedings
 1. [Preprint](https://arxiv.org/abs/2405.16305#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  
-*Efficiently Parameterized Neural Metriplectic Systems*  
+[Efficiently Parameterized Neural Metriplectic Systems](https://openreview.net/forum?id=uL1H29dM0c)  
 **13th ICLR Proceedings** (2025). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2305.15616#){: .btn .btn--info .btn--small}{: .align-right}
@@ -152,6 +152,11 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 **TTU Electronic Thesis and Dissertation Repository** (2019). </sub>
 
 ## Submitted Articles
+1. [Preprint](https://arxiv.org/abs/2502.10888#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
+*Tensor Parametric Hamiltonian Operator Inference.*  
+(under review). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2501.06686#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Sanghyun Hong, Fan Wu, <ins>Anthony Gruber</ins>, Kookjin Lee.  
 *Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations.*  
