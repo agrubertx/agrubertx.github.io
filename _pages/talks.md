@@ -1,12 +1,27 @@
 ---
 permalink: /talks/
-title: "Selected Talks and Seminars"
+title: "Recorded Talks and Seminars"
 author_profile: true
 excerpt: "Talks"
 ---
 
-Some selected presentations, current through 4/2022.
+Some recorded presentations, current through 3/2025.
 
+[Video](http://www.birs.ca/events/2025/5-day-workshops/25w5441/videos/watch/202503201558-Gruber.html){: .btn .btn--info .btn--small}{: .align-right}
+- **Anthony Gruber**, Workshop on Geometric Mechanics Formulations for Continuum Mechanics, BIRS, Banff, CA. *Hamiltonian and metriplectic model reduction*, (25 min; March 20, 2025).
+
+[Video](https://slideslive.com/39009240/rversible-and-irreversible-bracketbased-dynamics-for-deep-graph-neural-networks?ref=speaker-18597){: .btn .btn--info .btn--small}{: .align-right}
+- **Anthony Gruber**, NeurIPS 2023 poster advertisement, New Orleans, LA. *Hamiltonian and metriplectic model reduction*, (5 min; Dec. 10, 2023).
+
+[Video](https://www.youtube.com/watch?v=k-XQqkfPPdc){: .btn .btn--info .btn--small}{: .align-right}
+- **Anthony Gruber**, NA-G-ROMs seminar series, ARIA project, INRIA, Bordeaux,
+FR. *Property-preserving model reduction for conservative and dissipative systems*, (50 min; Oct. 10, 2023).
+
+[Video](https://www.youtube.com/watch?v=k-XQqkfPPdc){: .btn .btn--info .btn--small}{: .align-right}
+- **Anthony Gruber**, CRUNCH webinar (virtual), Brown University, Providence, RI. *Energetically consistent model reduction for Hamiltonian and metriplectic systems*, (50 min; Dec. 9, 2022).
+
+
+<!-- 
 ## Invited Presentations  
 [Slides](/files/slides/Colloquium_Fall_2021.pdf){: .btn .btn--info .btn--small}{: .align-right}
 - **Anthony Gruber**, Colloquium talk, Texas Tech University, Lubbock. *Some nonlinear PDEs in computer graphics and data science*, (50 min; Sep 29, 2021).
@@ -32,8 +47,6 @@ Some selected presentations, current through 4/2022.
 [Slides](/files/slides/ICML_presentation.pdf){: .btn .btn--info .btn--small}{: .align-right}
 - Robert A. Bridges (presenter), **Anthony Gruber**, Christopher Felder, Miki Verma, Chelsey Hoff.  Paper presentation, 36th International Conference on Machine Learning, Long Beach, California, June 9-15, 2019.  *Active Manifolds: A non-linear analogue to Active Subspaces*, (June 11, 2019).
 
-<!-- - Eugenio Aulisa, **Anthony Gruber**, Magdalena Toda (presenter), Hung Tran.  Plenary lecture, XXIst International Conference on Geometry, Integrability, and Quantization, Bulgarian Academy of Science, Institute of Biophysics, June 3-9, 2019. *p-Willmore Energies*, (50 min; June 9, 2019.)  Slides [available here](/files/slides/magda_presentation.pdf). -->
-
 
 ## Seminar Talks  
 [Slides](/files/slides/AppMath_Seminar_Fall_2021.pdf){: .btn .btn--info .btn--small}{: .align-right}
@@ -51,9 +64,5 @@ Some selected presentations, current through 4/2022.
 
 ## Other  
 [Slides](/files/slides/job_talk_2022.pdf){: .btn .btn--info .btn--small}{: .align-right}
-- **Anthony Gruber**.  Job talk, various locations.  *Geometric Computing for Modeling and Approximation*, (50 min; 2021-2022).
-
-    <!--  <li> <b>Anthony Gruber</b>.
-        Seminar talk, <i>A conformally-adjusted Willmore flow of closed surfaces</i>, Applied Mathematics group, Texas Tech University, Lubbock. (50 min; May 8, 2019.)  Slides available <a href="../files/slides/applied_math_seminar.pdf" >here</a>. </li> <br>
-      <li> <b>Anthony Gruber</b>.
-        Seminar talk, <i>Curvature functionals and varational problems</i>, Analysis group, Texas Tech University, Lubbock. (50 min; April 29, 2019.)  Slides available <a href="../files/slides/analysis_seminar.pdf" >here</a>. </li> <br> -->
+- **Anthony Gruber**.  Job talk, various locations.  *Geometric Computing for Modeling and Approximation*, (50 min; 2021-2022). 
+-->
