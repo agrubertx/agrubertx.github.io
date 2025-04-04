@@ -17,7 +17,7 @@ Some recorded presentations, current through 3/2025.
 - **Anthony Gruber**, NA-G-ROMs seminar series, ARIA project, INRIA, Bordeaux,
 FR. *Property-preserving model reduction for conservative and dissipative systems*, (50 min; Oct. 10, 2023).
 
-[Video](https://www.youtube.com/watch?v=k-XQqkfPPdc){: .btn .btn--info .btn--small}{: .align-right}
+[Video](https://www.youtube.com/watch?v=0alQZzR09nM){: .btn .btn--info .btn--small}{: .align-right}
 - **Anthony Gruber**, CRUNCH webinar (virtual), Brown University, Providence, RI. *Energetically consistent model reduction for Hamiltonian and metriplectic systems*, (50 min; Dec. 9, 2022).
 
 
