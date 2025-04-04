@@ -208,7 +208,7 @@ Curvature Functionals and p-Willmore Energy
 {: .notice--info}
 
 ### Curvature Functionals and p-Willmore Energy  [Here](https://ttu-ir.tdl.org/handle/2346/85351#){: .btn .btn--info .btn--small}{: .align-right} [Read More](/cf/){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/virus_end.png" style="max-height: 225px; max-width: 225px; margin-right: 16px" align=left>  My PhD thesis, which investigates many aspects of general curvature functionals in the abstract, and applies some of them to the particular case of the p-Willmore energy. 
+<img src="/images/virus_end.pdf" style="max-height: 225px; max-width: 225px; margin-right: 16px" align=left>  My PhD thesis, which investigates many aspects of general curvature functionals in the abstract, and applies some of them to the particular case of the p-Willmore energy. 
 <br><br>
 **Abstract:** Functionals involving surface curvature are frequently
 encountered when modeling the behavior of important biological structures such
