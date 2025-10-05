@@ -11,7 +11,7 @@ Proof that I exist in professional settings and do things.
 ### Me giving talks
 <p align="center">
   <img src="/images/me_USNCCM_2025.jpg" alt="Image 1" style="display:inline-block; width: 52%;" />
-  <img src="/images/me_dissertation_defense_2019.jpg" alt="Image 2" style="display:inline-block; width: 40%;" />
+  <img src="/images/me_dissertation_defense_2019.JPG" alt="Image 2" style="display:inline-block; width: 40%;" />
 </p>
 <!-- ![image-left](/images/me_USNCCM_2025.jpg){: width="500" } ![image-left](/images/me_dissertation_defense_2019.JPG){: width="500" }  -->
 At USNCCM 2025 in Chicago (left) and my dissertation defense at TTU in May 2019 (right).
