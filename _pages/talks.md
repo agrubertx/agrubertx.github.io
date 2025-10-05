@@ -5,13 +5,11 @@ author_profile: true
 excerpt: "Talks"
 ---
 
-Some recorded presentations, current through 3/2025.
+Some recorded presentations, current through 10/2025.
 
+## Talks 
 [Video](http://www.birs.ca/events/2025/5-day-workshops/25w5441/videos/watch/202503201558-Gruber.html){: .btn .btn--info .btn--small}{: .align-right}
 - **Anthony Gruber**, Workshop on Geometric Mechanics Formulations for Continuum Mechanics, BIRS, Banff, CA. *Hamiltonian and metriplectic model reduction*, (25 min; March 20, 2025).
-
-[Video](https://slideslive.com/39009240/rversible-and-irreversible-bracketbased-dynamics-for-deep-graph-neural-networks?ref=speaker-18597){: .btn .btn--info .btn--small}{: .align-right}
-- **Anthony Gruber**, NeurIPS 2023 poster advertisement, New Orleans, LA. *Hamiltonian and metriplectic model reduction*, (5 min; Dec. 10, 2023).
 
 [Video](https://www.youtube.com/watch?v=k-XQqkfPPdc){: .btn .btn--info .btn--small}{: .align-right}
 - **Anthony Gruber**, NA-G-ROMs seminar series, ARIA project, INRIA, Bordeaux,
@@ -20,6 +18,12 @@ FR. *Property-preserving model reduction for conservative and dissipative system
 [Video](https://www.youtube.com/watch?v=0alQZzR09nM){: .btn .btn--info .btn--small}{: .align-right}
 - **Anthony Gruber**, CRUNCH webinar (virtual), Brown University, Providence, RI. *Energetically consistent model reduction for Hamiltonian and metriplectic systems*, (50 min; Dec. 9, 2022).
 
+## Posters
+[Video](https://iclr.cc/virtual/2025/poster/27984){: .btn .btn--info .btn--small}{: .align-right}
+- **Anthony Gruber**, ICLR 2025 poster advertisement, Singapore. *Efficiently Parameterized Neural Metriplectic Systems*, (5 min; Apr. 7, 2025).
+
+[Video](https://slideslive.com/39009240/rversible-and-irreversible-bracketbased-dynamics-for-deep-graph-neural-networks?ref=speaker-18597){: .btn .btn--info .btn--small}{: .align-right}
+- **Anthony Gruber**, NeurIPS 2023 poster advertisement, New Orleans, LA. *Hamiltonian and metriplectic model reduction*, (5 min; Dec. 10, 2023).
 
 <!-- 
 ## Invited Presentations  
