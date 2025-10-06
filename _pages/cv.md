@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Full CV in PDF version [available here](../files/Gruber_CV.pdf), current through 3/2025.
+Full CV in PDF version [available here](../files/Gruber_CV.pdf), current through 10/2025. 
 
 {% include base_path %}
 
