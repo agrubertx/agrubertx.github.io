@@ -5,12 +5,12 @@ author_profile: true
 excerpt: "Publications"
 ---
 
-Recorded here is a list of publications, current through 3/2025.
+Recorded here is a list of publications, current through 8/2026.
 
 ## Journal Articles
 1. [Preprint](https://arxiv.org/abs/2511.20687#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Irina Tezaur, Eric Parish, <ins>Anthony Gruber</ins>, Ian Moore, Christopher Wentland, Alejandro Mota.
-*Hybrid coupling with operator inference and the overlapping Schwarz alternating method.*
+<sub> Irina Tezaur, Eric Parish, <ins>Anthony Gruber</ins>, Ian Moore, Christopher Wentland, Alejandro Mota.  
+*Hybrid coupling with operator inference and the overlapping Schwarz alternating method.*  
 **Int. J. Numer. Methods Eng.** (to appear). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2502.10888#){: .btn .btn--info .btn--small}{: .align-right}
@@ -19,8 +19,8 @@ Recorded here is a list of publications, current through 3/2025.
 **SIAM J. Appl. Dyn. Sys.**  (to appear). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2506.08475#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Xiaolong He, Yeonjong Shin, <ins>Anthony Gruber</ins>, Sohyeon Jung, Kookjin Lee, Youngsoo Choi.
-[Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems](https://openreview.net/forum?id=Qy3oLpRzpf)
+<sub> Xiaolong He, Yeonjong Shin, <ins>Anthony Gruber</ins>, Sohyeon Jung, Kookjin Lee, Youngsoo Choi.  
+[Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems](https://openreview.net/forum?id=Qy3oLpRzpf). 
 **TMLR** (2026). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
@@ -105,8 +105,8 @@ Recorded here is a list of publications, current through 3/2025.
 
 ## Articles in Refereed Conference Proceedings
 1. [Preprint](https://arxiv.org/abs/2508.11205#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Cheng Jing, Uvini Balasuriya Mudiyanselage, Woojin Cho, Minju Jo, <ins>Anthony Gruber</ins>, Kookjin Lee.
-[Meta-Learning Structure-Preserving Dynamics](https://openreview.net/forum?id=k66TZFhUSQ)
+<sub> Cheng Jing, Uvini Balasuriya Mudiyanselage, Woojin Cho, Minju Jo, <ins>Anthony Gruber</ins>, Kookjin Lee.  
+[Meta-Learning Structure-Preserving Dynamics](https://openreview.net/forum?id=k66TZFhUSQ)  
 **43rd ICML Proceedings** (2026). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2405.16305#){: .btn .btn--info .btn--small}{: .align-right}
@@ -173,28 +173,28 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 
 ## Submitted Articles
 1. [Preprint](https://arxiv.org/abs/2607.18312#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Ritoban Roy-Chowdhury, Mohammad Sina Nabizadeh, Oliver Gross, <ins>Anthony Gruber</ins>, Albert Chern.
-*Vakonomic Fluids.*
+<sub> Ritoban Roy-Chowdhury, Mohammad Sina Nabizadeh, Oliver Gross, <ins>Anthony Gruber</ins>, Albert Chern.  
+*Vakonomic Fluids.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2606.24106#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> <ins>Anthony Gruber</ins>, Ritoban Roy-Chowdhury, Irina Tezaur, Nathan M. Urban.
-*Flexible and Stable Dynamics Discovery with Onsager's Variational Principle.*
+<sub> <ins>Anthony Gruber</ins>, Ritoban Roy-Chowdhury, Irina Tezaur, Nathan M. Urban.  
+*Flexible and Stable Dynamics Discovery with Onsager's Variational Principle.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2604.26280#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Arjun Vijaywargiya, Eric C. Cyr, <ins>Anthony Gruber.</ins>
-*Structure-Aware Tensorial Model Reduction.*
+<sub> Arjun Vijaywargiya, Eric C. Cyr, <ins>Anthony Gruber.</ins>  
+*Structure-Aware Tensorial Model Reduction.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2603.08488#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Eric Parish, <ins>Anthony Gruber</ins>, Patrick Blonigan, Irina Tezaur.
-*NN-OpInf: an operator inference approach using structure-preserving composable neural networks.*
+<sub> Eric Parish, <ins>Anthony Gruber</ins>, Patrick Blonigan, Irina Tezaur.  
+*NN-OpInf: an operator inference approach using structure-preserving composable neural networks.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2512.01888#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Adrienne M. Propp, Mauro Perego, Eric C. Cyr, <ins>Anthony Gruber</ins>, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Daniel M. Tartakovsky.
-*Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets.*
+<sub> Adrienne M. Propp, Mauro Perego, Eric C. Cyr, <ins>Anthony Gruber</ins>, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Daniel M. Tartakovsky.  
+*Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2501.06686#){: .btn .btn--info .btn--small}{: .align-right}
@@ -203,8 +203,8 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 (under review). </sub>
 
 1. [Preprint](https://openreview.net/pdf?id=z7ilspv4uH){: .btn .btn--info .btn--small}{: .align-right}
-Jaehyeon Park, Mingu Kang, Dongseok Lee, Woojin Cho, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.
-*PDE-PFN: Prior-Data Fitted Neural PDE Solver.*
+Jaehyeon Park, Mingu Kang, Dongseok Lee, Woojin Cho, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
+*PDE-PFN: Prior-Data Fitted Neural PDE Solver.*  
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2410.06219#){: .btn .btn--info .btn--small}{: .align-right}
