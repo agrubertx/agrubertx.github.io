@@ -8,6 +8,21 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 3/2025.
 
 ## Journal Articles
+1. [Preprint](https://arxiv.org/abs/2511.20687#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Irina Tezaur, Eric Parish, <ins>Anthony Gruber</ins>, Ian Moore, Christopher Wentland, Alejandro Mota.
+*Hybrid coupling with operator inference and the overlapping Schwarz alternating method.*
+**Int. J. Numer. Methods Eng.** (to appear). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2502.10888#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
+*Tensor Parametric Hamiltonian Operator Inference.*  
+**SIAM J. Appl. Dyn. Sys.**  (to appear). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2506.08475#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Xiaolong He, Yeonjong Shin, <ins>Anthony Gruber</ins>, Sohyeon Jung, Kookjin Lee, Youngsoo Choi.
+[Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems](https://openreview.net/forum?id=Qy3oLpRzpf)
+**TMLR** (2026). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Irina Tezaur.  
 [Variationally Consistent Hamiltonian Model Reduction.](https://epubs.siam.org/doi/full/10.1137/24M1652490)  
@@ -89,6 +104,11 @@ Recorded here is a list of publications, current through 3/2025.
 **Ann. Glob. Anal. Geom.** (2019) </sub>
 
 ## Articles in Refereed Conference Proceedings
+1. [Preprint](https://arxiv.org/abs/2508.11205#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Cheng Jing, Uvini Balasuriya Mudiyanselage, Woojin Cho, Minju Jo, <ins>Anthony Gruber</ins>, Kookjin Lee.
+[Meta-Learning Structure-Preserving Dynamics](https://openreview.net/forum?id=k66TZFhUSQ)
+**43rd ICML Proceedings** (2026). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2405.16305#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>, Kookjin Lee, Haksoo Lim, Noseong Park, Nathaniel Trask.  
 [Efficiently Parameterized Neural Metriplectic Systems](https://openreview.net/forum?id=uL1H29dM0c)  
@@ -152,20 +172,39 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 **TTU Electronic Thesis and Dissertation Repository** (2019). </sub>
 
 ## Submitted Articles
-1. [Preprint](https://arxiv.org/abs/2502.10888#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
-*Tensor Parametric Hamiltonian Operator Inference.*  
+1. [Preprint](https://arxiv.org/abs/2607.18312#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Ritoban Roy-Chowdhury, Mohammad Sina Nabizadeh, Oliver Gross, <ins>Anthony Gruber</ins>, Albert Chern.
+*Vakonomic Fluids.*
+(under review). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2606.24106#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Ritoban Roy-Chowdhury, Irina Tezaur, Nathan M. Urban.
+*Flexible and Stable Dynamics Discovery with Onsager's Variational Principle.*
+(under review). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2604.26280#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Arjun Vijaywargiya, Eric C. Cyr, <ins>Anthony Gruber.</ins>
+*Structure-Aware Tensorial Model Reduction.*
+(under review). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2603.08488#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Eric Parish, <ins>Anthony Gruber</ins>, Patrick Blonigan, Irina Tezaur.
+*NN-OpInf: an operator inference approach using structure-preserving composable neural networks.*
+(under review). </sub>
+
+1. [Preprint](https://arxiv.org/abs/2512.01888#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Adrienne M. Propp, Mauro Perego, Eric C. Cyr, <ins>Anthony Gruber</ins>, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Daniel M. Tartakovsky.
+*Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets.*
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2501.06686#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Sanghyun Hong, Fan Wu, <ins>Anthony Gruber</ins>, Kookjin Lee.  
-*Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations.*  
+*Rethinking privacy in neural networks through continuous-time dynamics.*  
 (under review). </sub>
 
-1. [Preprint](https://arxiv.org/pdf/2410.06442#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Mingu Kang, Dongseok Lee, Woojin Cho, Jaehyeon Park, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
-*MaD-Scientist: AI-based scientist solving convection-diffusion-reaction equations using massive PINN-based
-prior data.*  
+1. [Preprint](https://openreview.net/pdf?id=z7ilspv4uH){: .btn .btn--info .btn--small}{: .align-right}
+Jaehyeon Park, Mingu Kang, Dongseok Lee, Woojin Cho, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.
+*PDE-PFN: Prior-Data Fitted Neural PDE Solver.*
 (under review). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2410.06219#){: .btn .btn--info .btn--small}{: .align-right}

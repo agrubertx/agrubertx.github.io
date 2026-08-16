@@ -30,7 +30,7 @@ A differential geometer by training, I received my PhD from Texas Tech Universit
 <br><br>
 Catalyzed by an NSF internship at Oak Ridge National Lab (featured [here!](https://orise.orau.gov/nsf-msgi/profiles/gruber.html)) toward the end of graduate school where I worked with <a href="https://sites.google.com/site/robertbridgeshomepage/">Robert Bridges</a>, I became involved post-PhD in scientific algorithm development for dimension reduction, function approximation, and the reduced-order modeling of PDEs.  This led to a postdoctoral appointment with <a href="https://people.sc.fsu.edu/~mgunzburger/">Max Gunzburger</a> at FSU working on data-driven strategies for predictive tasks related to ocean modeling.  At the same time as my application-driven interests were shifting, my purer "side project" work also moved in the direction of rigidity results for geometric objects constrained by curvature conditions.  Now, I maintain active interests in several areas of mathematics, computer science, and engineering.
 <br><br>
-Broad research keywords which tend to interest me include: scientific machine learning, computational and discrete geometry, conservation laws, reduced-order modeling, manifold learning, harmonic maps, surface immersions, and integrability problems.
+Broad research keywords which tend to interest me include: geometric mechanics, variational principles, structure-preservation, reduced-order modeling, scientific machine learning, harmonic maps, surface immersions, and integrability problems.
 {: .notice--info}
 
 <!-- A more detailed description of my interests can be found in my <a href="/files/Research_Statement.pdf">academic research statement</a> (current as of 9/21). -->
