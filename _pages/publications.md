@@ -151,6 +151,32 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 **36th ICML Proceedings**, PMLR 97:764-772 (2019). </sub>
 
 ## Others
+1. [Here](/files/preprints/Gruber_AIAA_2026.pdf){: .btn .btn--info .btn--small}{: .align-right}
+<sub> <ins>Anthony Gruber</ins>, Gianluca Geraci, Patrick J. Blonigan, Eric Parish, Michael Eldred.  
+[Advancements in Reduced Order Model-Based Multifidelity Uncertainty Quantification for High-Speed Flows.](https://arc.aiaa.org/doi/10.2514/6.2026-1614)  
+**AIAA Proceedings** (2026). </sub>
+
+1. [Here](https://www.sandia.gov/app/uploads/sites/210/2025/12/CSRI-2025-proceedings_FINALDec1.pdf#page=260){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Ritoban Roy-Chowdhury, Irina Tezaur, Nathan M. Urban, <ins>Anthony Gruber.</ins>  
+[Onsager’s variational principle for solving inverse problems.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2025/)  
+**CSRI Summer Proceedings** (2025). </sub>
+
+1. [Here](https://www.sandia.gov/app/uploads/sites/210/2025/12/CSRI-2025-proceedings_FINALDec1.pdf#page=66){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Tage T. Burnett, <ins>Anthony Gruber</ins>, Eric C. Cyr.  
+[Towards Structure-Preserving Reduced Order Modeling of Particle in Cell Simulations.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2025/)  
+**CSRI Summer Proceedings** (2025). </sub>
+
+1. [Here](https://www.sandia.gov/app/uploads/sites/210/2025/12/CSRI-2025-proceedings_FINALDec1.pdf#page=481){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Adrienne M. Propp, Mauro Perego, Eric C. Cyr, <ins>Anthony Gruber</ins>, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Daniel M. Tartakovsky.  
+[Scalable ice sheet surrogate modeling via domain-decomposed, physics-
+inspired graph neural networks.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2025/)   
+**CSRI Summer Proceedings** (2025). </sub>
+
+1. [Here](https://arxiv.org/abs/2509.12228#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Cameron Rodriguez, Irina Tezaur, Alejandro Mota, <ins>Anthony Gruber</ins>, Eric Parish, Christopher Wentland.  
+[Transmission Conditions for the Non-Overlapping Schwarz Coupling of Full Order and Operator Inference Models.](https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2024/)  
+**CSRI Summer Proceedings** (2025). </sub>
+
 1. [Here](https://www.osti.gov/servlets/purl/2462988){: .btn .btn--info .btn--small}{: .align-right}
 <sub> <ins>Anthony Gruber</ins>.  
 [Learning Operators for Structure-Informed Surrogate Models.](https://www.osti.gov/servlets/purl/2462988)  
@@ -203,7 +229,7 @@ data?](https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf)
 (under review). </sub>
 
 1. [Preprint](https://openreview.net/pdf?id=z7ilspv4uH){: .btn .btn--info .btn--small}{: .align-right}
-Jaehyeon Park, Mingu Kang, Dongseok Lee, Woojin Cho, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
+<sub> Jaehyeon Park, Mingu Kang, Dongseok Lee, Woojin Cho, Kookjin Lee, <ins>Anthony Gruber</ins>, Youngjoon Hong, Noseong Park.  
 *PDE-PFN: Prior-Data Fitted Neural PDE Solver.*  
 (under review). </sub>
 
