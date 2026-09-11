@@ -8,19 +8,19 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 8/2026.
 
 ## Journal Articles
-1. [Preprint](https://arxiv.org/abs/2511.20687#){: .btn .btn--info .btn--small}{: .align-right}
-<sub> Irina Tezaur, Eric Parish, <ins>Anthony Gruber</ins>, Ian Moore, Christopher Wentland, Alejandro Mota.  
-*Hybrid coupling with operator inference and the overlapping Schwarz alternating method.*  
-**Int. J. Numer. Methods Eng.** (to appear). </sub>
-
 1. [Preprint](https://arxiv.org/abs/2502.10888#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Arjun Vijaywargia, Shane A. McQuarrie, <ins>Anthony Gruber</ins>.  
 *Tensor Parametric Hamiltonian Operator Inference.*  
 **SIAM J. Appl. Dyn. Sys.**  (to appear). </sub>
 
+1. [Preprint](https://arxiv.org/abs/2511.20687#){: .btn .btn--info .btn--small}{: .align-right}
+<sub> Irina Tezaur, Eric Parish, <ins>Anthony Gruber</ins>, Ian Moore, Christopher Wentland, Alejandro Mota.  
+[Hybrid coupling with operator inference and the overlapping Schwarz alternating method.](https://onlinelibrary.wiley.com/doi/10.1002/nme.70408)   
+**Int. J. Numer. Methods Eng.** (2026). </sub>
+
 1. [Preprint](https://arxiv.org/abs/2506.08475#){: .btn .btn--info .btn--small}{: .align-right}
 <sub> Xiaolong He, Yeonjong Shin, <ins>Anthony Gruber</ins>, Sohyeon Jung, Kookjin Lee, Youngsoo Choi.  
-[Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems](https://openreview.net/forum?id=Qy3oLpRzpf). 
+[Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems](https://openreview.net/forum?id=Qy3oLpRzpf)  
 **TMLR** (2026). </sub>
 
 1. [Preprint](https://arxiv.org/abs/2404.15315#){: .btn .btn--info .btn--small}{: .align-right}
